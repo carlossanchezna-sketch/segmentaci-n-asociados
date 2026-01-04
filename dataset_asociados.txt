@@ -1,0 +1,68 @@
+import numpy as np
+import pandas as pd
+import random
+
+# Configuraciones basadas en Fuentes gubernamentales
+categorias = ['Basica', 'Intermedia', 'Plena']
+prob_categorias = [0.21, 0.39, 0.40]  # Aproximado de activos/asociados
+
+generos = ['Masculino', 'Femenino']
+prob_generos = [0.45, 0.55]  # Más mujeres
+
+niveles_estudios = ['Sin educacion', 'Primaria', 'Secundaria', 'Tecnico', 'Universitario']
+prob_niveles = [0.1, 0.2, 0.3, 0.2, 0.2]  # Ajustado, más altos en inter/plena
+
+ocupaciones = ['Empleado', 'Independiente', 'Pensionado', 'Estudiante', 'Ama de casa']
+prob_ocupaciones = [0.3, 0.3, 0.15, 0.1, 0.15]
+
+has_credit = ['Si', 'No']
+prob_credit = [0.5, 0.5]
+
+zonas = ['Urbano', 'Rural']
+# Prob por categoria: Basica 30% Urbano/70% Rural, Inter 70/30, Plena 90/10
+prob_zona_por_cat = {
+    'Basica': [0.3, 0.7],
+    'Intermedia': [0.7, 0.3],
+    'Plena': [0.9, 0.1]
+}
+
+# Generar 1000 filas
+n = 100
+data = []
+
+for _ in range(n):
+    cat = random.choices(categorias, prob_categorias)[0]
+    
+    edad = int(np.random.normal(45, 15))  # Media 45, sd 15, mayoría 29-59
+    edad = max(18, min(90, edad))
+    
+    gen = random.choices(generos, prob_generos)[0]
+    
+    ingresos = abs(int(np.random.normal(3000000, 2000000)))  # Media 3M COP
+    
+    # Nivel estudios depende de cat: más altos en plena
+    if cat == 'Basica':
+        prob_niv = [0.2, 0.3, 0.3, 0.15, 0.05]
+    elif cat == 'Intermedia':
+        prob_niv = [0.1, 0.2, 0.3, 0.25, 0.15]
+    else:
+        prob_niv = [0.05, 0.15, 0.25, 0.25, 0.3]
+    nivel = random.choices(niveles_estudios, prob_niv)[0]
+    
+    frec_trans = max(0, int(np.random.normal(10, 5)))
+    
+    ocup = random.choices(ocupaciones, prob_ocupaciones)[0]
+    
+    credit = random.choices(has_credit, prob_credit)[0]
+    
+    depositos = abs(int(np.random.normal(ingresos * 1.5, ingresos))) 
+ # Correlacionado con ingresos
+    
+    zona = random.choices(zonas, prob_zona_por_cat[cat])[0]
+    
+    data.append([cat, edad, gen, ingresos, nivel, frec_trans, ocup, credit, depositos, zona])
+
+df = pd.DataFrame(data, columns=['Categoria', 'Edad', 'Genero', 'Ingresos', 'Nivel_Estudios', 'Frec_Trans_Mes', 'Ocupacion', 'Has_Credit', 'Depositos', 'Zona'])
+
+# Para guardar en CSV
+ df.to_csv('dataset.csv', index=False)
