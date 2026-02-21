@@ -20,7 +20,9 @@ from sklearn.metrics import silhouette_score
 # -------------------------
 np.random.seed(42)
 random.seed(42)
-
+# Subir el archivo Excel a colab
+uploaded = files.upload()
+file_name = list(uploaded.keys())[0]  # Obtener el nombre del archivo subido
 # -------------------------
 # 3. GENERACIÓN DEL DATASET SINTÉTICO
 # -------------------------
@@ -156,13 +158,24 @@ resumen_clusters = df.groupby('Cluster')[[
 
 print("\nResumen estadístico por clúster:")
 print(resumen_clusters)
-
+#-----------
+# 10 Visualización de clústeres en 2D usando PCA
 # -------------------------
-# 10. EXPORTACIÓN DE RESULTADOS
+pca = PCA(n_components=2)
+X_pca = pca.fit_transform(X_scaled)
+
+plt.figure(figsize=(10, 8))
+scatter = plt.scatter(X_pca[:, 0], X_pca[:, 1], c=df['Cluster'], cmap='viridis', alpha=0.6)
+plt.colorbar(scatter, label='Clúster')
+plt.xlabel('Componente Principal 1')
+plt.ylabel('Componente Principal 2')
+plt.title('Visualización de Clústeres (PCA en 2D)')
+plt.grid(True)
+plt.show()
+# -------------------------
+# 11. EXPORTACIÓN DE RESULTADOS
 # -------------------------
 df.to_csv('dataset_segmentado.csv', index=False)
 resumen_clusters.to_csv('resumen_clusters.csv')
-
-print("\nArchivos generados:")
-print("- dataset_segmentado.csv")
-print("- resumen_clusters.csv")
+files.download('dataset_segmentado.csv')
+files.download('resumen_clusters.csv')
