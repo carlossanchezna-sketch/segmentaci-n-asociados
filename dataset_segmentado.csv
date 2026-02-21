@@ -1,0 +1,1001 @@
+Categoria,Edad,Genero,Ingresos,Nivel_Estudios,Frec_Trans_Mes,Ocupacion,Has_Credit,Depositos,Zona,Recencia,R,F,M,R_score,F_score,M_score,Cluster
+Intermedia,47,Masculino,3025044,Universitario,11,Estudiante,Si,3410006,Urbano,14,14,11,3410006,4,3,3,3
+Plena,29,Femenino,8356792,Tecnico,7,Empleado,No,6822279,Rural,90,90,7,6822279,1,2,5,1
+Plena,50,Femenino,9378450,Secundaria,6,Ama de casa,Si,13815814,Urbano,39,39,6,13815814,2,2,5,1
+Intermedia,52,Femenino,1587087,Universitario,7,Estudiante,No,1100989,Urbano,27,27,7,1100989,2,2,1,0
+Basica,52,Masculino,348263,Secundaria,8,Ama de casa,No,294571,Rural,5,5,8,294571,5,2,1,0
+Basica,58,Femenino,4562222,Sin educacion,12,Estudiante,Si,3913662,Rural,5,5,12,3913662,5,4,3,3
+Basica,55,Femenino,2024906,Secundaria,22,Pensionado,Si,1029566,Rural,1,1,22,1029566,5,5,1,3
+Plena,51,Femenino,5634314,Universitario,6,Empleado,Si,7545518,Urbano,60,60,6,7545518,1,2,5,1
+Intermedia,44,Femenino,7550913,Secundaria,8,Pensionado,Si,4017044,Rural,27,27,8,4017044,2,2,3,1
+Plena,25,Femenino,692273,Secundaria,10,Empleado,Si,996998,Urbano,36,36,10,996998,2,3,1,0
+Basica,50,Femenino,3371254,Sin educacion,12,Independiente,Si,4693036,Rural,1,1,12,4693036,5,4,4,2
+Plena,47,Femenino,770696,Secundaria,11,Estudiante,No,798073,Urbano,105,105,11,798073,1,3,1,3
+Plena,48,Femenino,3904877,Tecnico,16,Independiente,No,4075112,Urbano,53,53,16,4075112,1,5,3,2
+Intermedia,30,Femenino,6269753,Secundaria,0,Independiente,Si,7233903,Rural,7,7,0,7233903,4,1,5,1
+Basica,32,Masculino,2254056,Sin educacion,0,Empleado,No,1999460,Rural,6,6,0,1999460,4,1,2,0
+Basica,58,Masculino,5185348,Universitario,8,Pensionado,No,5948747,Rural,6,6,8,5948747,4,2,4,1
+Intermedia,45,Femenino,4360662,Tecnico,15,Ama de casa,No,2375551,Rural,10,10,15,2375551,4,5,2,3
+Intermedia,53,Femenino,2505065,Secundaria,2,Empleado,No,1387925,Urbano,22,22,2,1387925,3,1,2,0
+Intermedia,45,Masculino,1716868,Universitario,0,Ama de casa,Si,1643438,Urbano,16,16,0,1643438,3,1,2,0
+Intermedia,45,Femenino,2734060,Sin educacion,13,Independiente,No,2869730,Rural,10,10,13,2869730,4,4,3,3
+Intermedia,56,Femenino,2905760,Secundaria,11,Ama de casa,No,4032665,Urbano,28,28,11,4032665,2,3,3,3
+Basica,39,Masculino,357311,Secundaria,5,Pensionado,Si,216052,Urbano,4,4,5,216052,5,1,1,0
+Intermedia,46,Femenino,2882679,Universitario,5,Empleado,Si,3812769,Urbano,10,10,5,3812769,4,1,3,0
+Intermedia,39,Femenino,3621060,Tecnico,5,Pensionado,Si,2571124,Urbano,13,13,5,2571124,4,1,2,0
+Intermedia,40,Femenino,5637354,Primaria,11,Pensionado,Si,5040266,Urbano,18,18,11,5040266,3,3,4,2
+Plena,41,Masculino,6829987,Universitario,7,Empleado,No,5577384,Urbano,46,46,7,5577384,2,2,4,1
+Basica,48,Femenino,3685581,Sin educacion,12,Pensionado,Si,3317595,Rural,6,6,12,3317595,4,4,3,3
+Intermedia,39,Masculino,65237,Universitario,0,Estudiante,No,42436,Rural,21,21,0,42436,3,1,1,0
+Intermedia,60,Masculino,1697806,Universitario,6,Estudiante,No,1703867,Urbano,26,26,6,1703867,3,2,2,0
+Basica,34,Femenino,3440758,Sin educacion,4,Estudiante,Si,4478637,Urbano,1,1,4,4478637,5,1,3,0
+Intermedia,43,Femenino,3775117,Tecnico,9,Ama de casa,Si,3554401,Urbano,28,28,9,3554401,2,2,3,0
+Basica,40,Femenino,27630,Sin educacion,7,Pensionado,Si,27371,Rural,5,5,7,27371,5,2,1,0
+Basica,62,Femenino,4183372,Primaria,14,Empleado,Si,5642397,Rural,2,2,14,5642397,5,4,4,2
+Plena,47,Femenino,8037220,Tecnico,1,Empleado,Si,9693354,Urbano,89,89,1,9693354,1,1,5,1
+Plena,57,Masculino,5703559,Tecnico,10,Ama de casa,Si,5649115,Urbano,101,101,10,5649115,1,3,4,1
+Plena,27,Masculino,691219,Universitario,13,Empleado,No,523734,Rural,49,49,13,523734,1,4,1,3
+Intermedia,48,Masculino,5978817,Tecnico,19,Estudiante,No,8280224,Urbano,10,10,19,8280224,4,5,5,2
+Basica,56,Femenino,3035311,Primaria,8,Pensionado,No,3269092,Rural,3,3,8,3269092,5,2,3,0
+Plena,46,Masculino,8132384,Universitario,12,Empleado,No,5864649,Urbano,34,34,12,5864649,2,4,4,2
+Intermedia,58,Masculino,5863627,Universitario,1,Empleado,Si,4509831,Urbano,17,17,1,4509831,3,1,4,1
+Basica,39,Masculino,4175611,Sin educacion,0,Independiente,Si,5441377,Urbano,3,3,0,5441377,5,1,4,1
+Intermedia,62,Femenino,4040463,Universitario,14,Independiente,No,2198600,Urbano,20,20,14,2198600,3,4,2,3
+Basica,73,Masculino,729687,Sin educacion,10,Independiente,No,1088760,Rural,1,1,10,1088760,5,3,1,3
+Plena,41,Femenino,6980038,Universitario,16,Pensionado,No,4399879,Urbano,72,72,16,4399879,1,5,3,2
+Intermedia,40,Femenino,4839696,Primaria,3,Estudiante,Si,6272578,Urbano,8,8,3,6272578,4,1,4,1
+Plena,62,Femenino,7719433,Primaria,13,Estudiante,Si,6907158,Urbano,32,32,13,6907158,2,4,5,2
+Intermedia,64,Masculino,1325072,Secundaria,19,Estudiante,Si,1314758,Urbano,11,11,19,1314758,4,5,2,3
+Intermedia,39,Masculino,1520807,Tecnico,12,Pensionado,No,2099703,Urbano,22,22,12,2099703,3,4,2,3
+Intermedia,40,Femenino,6945194,Secundaria,11,Pensionado,No,6340345,Urbano,23,23,11,6340345,3,3,4,2
+Basica,42,Femenino,3899885,Sin educacion,10,Independiente,Si,4046106,Urbano,6,6,10,4046106,4,3,3,3
+Plena,29,Femenino,9445576,Tecnico,2,Empleado,Si,5188452,Urbano,104,104,2,5188452,1,1,4,1
+Plena,34,Femenino,7890639,Universitario,17,Ama de casa,No,3963843,Rural,44,44,17,3963843,2,5,3,2
+Plena,33,Femenino,6210415,Tecnico,7,Ama de casa,No,4625516,Urbano,84,84,7,4625516,1,2,4,1
+Plena,36,Femenino,6802980,Secundaria,13,Empleado,Si,8031483,Urbano,67,67,13,8031483,1,4,5,2
+Intermedia,45,Masculino,6935198,Secundaria,2,Independiente,No,4308595,Urbano,27,27,2,4308595,2,1,3,1
+Plena,48,Femenino,6019590,Sin educacion,4,Empleado,Si,3694595,Urbano,76,76,4,3694595,1,1,3,1
+Basica,64,Femenino,3288435,Tecnico,17,Empleado,Si,2995635,Rural,2,2,17,2995635,5,5,3,3
+Basica,33,Femenino,813679,Tecnico,8,Ama de casa,No,933971,Rural,6,6,8,933971,4,2,1,0
+Basica,57,Masculino,2464390,Secundaria,17,Independiente,No,2987018,Rural,1,1,17,2987018,5,5,3,3
+Intermedia,42,Masculino,5587897,Secundaria,10,Pensionado,No,3791112,Urbano,11,11,10,3791112,4,3,3,2
+Intermedia,44,Masculino,2113353,Tecnico,1,Ama de casa,Si,1224874,Urbano,14,14,1,1224874,4,1,1,0
+Intermedia,53,Femenino,1577583,Secundaria,14,Pensionado,No,2272346,Rural,9,9,14,2272346,4,4,2,3
+Plena,32,Masculino,3263799,Universitario,7,Independiente,No,2482662,Urbano,52,52,7,2482662,1,2,2,0
+Intermedia,50,Femenino,1883705,Tecnico,13,Empleado,Si,2549306,Urbano,13,13,13,2549306,4,4,2,3
+Intermedia,47,Masculino,1676319,Tecnico,10,Estudiante,Si,2285647,Rural,9,9,10,2285647,4,3,2,3
+Intermedia,51,Masculino,3313837,Secundaria,2,Estudiante,No,4216932,Rural,23,23,2,4216932,3,1,3,0
+Basica,48,Masculino,4720760,Primaria,11,Independiente,Si,3157403,Urbano,4,4,11,3157403,5,3,3,3
+Plena,74,Masculino,5273420,Universitario,21,Estudiante,Si,6970414,Urbano,48,48,21,6970414,2,5,5,2
+Basica,37,Masculino,977186,Secundaria,12,Pensionado,Si,1240294,Rural,2,2,12,1240294,5,4,1,3
+Plena,39,Femenino,800505,Tecnico,10,Estudiante,No,877932,Urbano,130,130,10,877932,1,3,1,0
+Plena,38,Masculino,7240024,Secundaria,15,Independiente,No,6061363,Urbano,44,44,15,6061363,2,5,4,2
+Basica,38,Femenino,1990554,Secundaria,11,Independiente,Si,1517815,Rural,6,6,11,1517815,4,3,2,3
+Basica,37,Femenino,4273521,Secundaria,11,Pensionado,Si,2657657,Rural,1,1,11,2657657,5,3,2,3
+Plena,59,Femenino,6858912,Secundaria,5,Estudiante,Si,6925835,Rural,50,50,5,6925835,1,1,5,1
+Plena,62,Femenino,8280911,Primaria,11,Estudiante,No,8986949,Urbano,36,36,11,8986949,2,3,5,1
+Plena,38,Femenino,2828239,Tecnico,15,Empleado,Si,2430416,Urbano,39,39,15,2430416,2,5,2,3
+Plena,35,Femenino,7200533,Universitario,6,Ama de casa,Si,7023105,Urbano,44,44,6,7023105,2,2,5,1
+Basica,51,Femenino,1373122,Secundaria,17,Independiente,No,1185711,Rural,2,2,17,1185711,5,5,1,3
+Intermedia,38,Masculino,7324734,Primaria,10,Empleado,Si,8357566,Urbano,13,13,10,8357566,4,3,5,1
+Basica,53,Femenino,3309146,Secundaria,6,Independiente,No,4636971,Urbano,3,3,6,4636971,5,2,4,1
+Plena,47,Femenino,3374923,Primaria,15,Empleado,No,2240680,Urbano,59,59,15,2240680,1,5,2,3
+Intermedia,27,Masculino,2102193,Secundaria,9,Ama de casa,No,1852891,Urbano,29,29,9,1852891,2,2,2,0
+Intermedia,64,Femenino,1489227,Primaria,14,Empleado,Si,954399,Urbano,12,12,14,954399,4,4,1,3
+Basica,67,Masculino,3612133,Sin educacion,9,Independiente,Si,4063447,Urbano,1,1,9,4063447,5,2,3,0
+Intermedia,38,Masculino,1705982,Primaria,10,Estudiante,No,2096431,Urbano,11,11,10,2096431,4,3,2,3
+Intermedia,40,Masculino,4643365,Secundaria,12,Independiente,Si,6648893,Rural,11,11,12,6648893,4,4,4,2
+Plena,48,Masculino,2752204,Primaria,11,Pensionado,No,2143614,Urbano,39,39,11,2143614,2,3,2,3
+Intermedia,49,Femenino,5163358,Secundaria,0,Pensionado,Si,7487960,Rural,30,30,0,7487960,2,1,5,1
+Plena,53,Masculino,8475373,Tecnico,4,Pensionado,No,4773861,Urbano,65,65,4,4773861,1,1,4,1
+Intermedia,69,Femenino,6068597,Secundaria,15,Pensionado,No,6693747,Rural,19,19,15,6693747,3,5,4,2
+Basica,43,Femenino,3956427,Primaria,9,Ama de casa,Si,2204255,Rural,3,3,9,2204255,5,2,2,0
+Plena,35,Masculino,1952313,Universitario,7,Estudiante,Si,2721083,Urbano,37,37,7,2721083,2,2,2,0
+Plena,28,Femenino,919203,Primaria,3,Estudiante,Si,946604,Urbano,42,42,3,946604,2,1,1,0
+Intermedia,36,Masculino,5451801,Secundaria,5,Independiente,Si,6375055,Urbano,24,24,5,6375055,3,1,4,1
+Plena,45,Masculino,3830811,Primaria,0,Empleado,No,5101008,Urbano,44,44,0,5101008,2,1,4,1
+Intermedia,67,Masculino,3372301,Sin educacion,9,Independiente,No,2193043,Urbano,20,20,9,2193043,3,2,2,0
+Intermedia,39,Masculino,242963,Secundaria,7,Independiente,Si,130858,Urbano,22,22,7,130858,3,2,1,0
+Intermedia,48,Femenino,2024696,Secundaria,5,Independiente,Si,2791815,Rural,16,16,5,2791815,3,1,2,0
+Basica,45,Femenino,175117,Tecnico,10,Independiente,No,142709,Rural,1,1,10,142709,5,3,1,3
+Basica,59,Masculino,4571766,Secundaria,12,Estudiante,Si,2875544,Rural,3,3,12,2875544,5,4,3,3
+Basica,75,Femenino,1265663,Universitario,20,Empleado,Si,1225746,Rural,1,1,20,1225746,5,5,1,3
+Intermedia,39,Masculino,4347230,Sin educacion,2,Independiente,Si,4774589,Urbano,30,30,2,4774589,2,1,4,1
+Intermedia,39,Masculino,304039,Sin educacion,16,Estudiante,Si,161436,Urbano,11,11,16,161436,4,5,1,3
+Intermedia,58,Masculino,5201410,Sin educacion,15,Independiente,No,4030550,Urbano,21,21,15,4030550,3,5,3,2
+Plena,53,Femenino,3359484,Secundaria,6,Pensionado,No,1789933,Urbano,71,71,6,1789933,1,2,2,0
+Intermedia,67,Femenino,7003770,Secundaria,11,Independiente,Si,6445817,Urbano,8,8,11,6445817,4,3,4,1
+Intermedia,52,Masculino,6927322,Tecnico,8,Independiente,No,9664307,Rural,15,15,8,9664307,3,2,5,1
+Plena,41,Femenino,3383022,Sin educacion,11,Ama de casa,Si,5015846,Urbano,42,42,11,5015846,2,3,4,2
+Intermedia,52,Masculino,7027495,Universitario,18,Pensionado,Si,7990596,Urbano,7,7,18,7990596,4,5,5,2
+Basica,58,Femenino,5180020,Tecnico,13,Empleado,Si,3427296,Rural,2,2,13,3427296,5,4,3,3
+Intermedia,55,Femenino,6438242,Primaria,13,Independiente,No,9051199,Rural,10,10,13,9051199,4,4,5,2
+Basica,51,Femenino,4393331,Sin educacion,8,Empleado,No,4464713,Rural,5,5,8,4464713,5,2,3,0
+Plena,58,Masculino,2589691,Secundaria,3,Pensionado,No,1693009,Urbano,79,79,3,1693009,1,1,2,0
+Plena,59,Masculino,5997705,Primaria,9,Independiente,No,8527097,Urbano,49,49,9,8527097,1,3,5,1
+Intermedia,62,Femenino,524596,Primaria,16,Ama de casa,No,659663,Urbano,30,30,16,659663,2,5,1,3
+Plena,53,Femenino,987147,Tecnico,2,Estudiante,Si,1215874,Urbano,61,61,2,1215874,1,1,1,0
+Plena,43,Femenino,10388483,Secundaria,5,Ama de casa,Si,12561553,Urbano,48,48,5,12561553,2,1,5,1
+Basica,47,Femenino,1698524,Primaria,11,Ama de casa,No,1189544,Urbano,6,6,11,1189544,4,3,1,3
+Plena,59,Masculino,7781113,Universitario,5,Estudiante,No,5532423,Urbano,66,66,5,5532423,1,1,4,1
+Intermedia,35,Masculino,6291987,Tecnico,6,Estudiante,No,7476724,Urbano,23,23,6,7476724,3,2,5,1
+Plena,49,Femenino,8923442,Universitario,8,Estudiante,Si,6422404,Urbano,49,49,8,6422404,1,2,4,1
+Plena,40,Femenino,10375334,Primaria,3,Independiente,No,9739032,Rural,67,67,3,9739032,1,1,5,1
+Intermedia,45,Masculino,1883673,Secundaria,5,Empleado,Si,2414872,Urbano,11,11,5,2414872,4,1,2,0
+Basica,60,Femenino,209824,Secundaria,14,Empleado,Si,269404,Rural,3,3,14,269404,5,4,1,3
+Intermedia,47,Masculino,3207294,Sin educacion,3,Estudiante,No,3057391,Urbano,7,7,3,3057391,4,1,3,0
+Intermedia,46,Femenino,1014629,Sin educacion,2,Ama de casa,Si,1311093,Urbano,16,16,2,1311093,3,1,2,0
+Plena,29,Femenino,233229,Universitario,7,Pensionado,Si,312205,Urbano,51,51,7,312205,1,2,1,0
+Plena,54,Femenino,3748439,Tecnico,14,Estudiante,No,4328606,Urbano,59,59,14,4328606,1,4,3,2
+Basica,53,Femenino,4075439,Primaria,9,Ama de casa,Si,2968655,Rural,1,1,9,2968655,5,3,3,3
+Intermedia,71,Masculino,4416209,Secundaria,8,Ama de casa,No,3418198,Urbano,21,21,8,3418198,3,2,3,0
+Intermedia,41,Femenino,2439668,Secundaria,10,Independiente,Si,1987942,Urbano,16,16,10,1987942,3,3,2,3
+Intermedia,48,Femenino,5103868,Sin educacion,1,Independiente,No,3148087,Rural,7,7,1,3148087,4,1,3,0
+Basica,48,Femenino,1206495,Primaria,12,Empleado,No,932813,Rural,3,3,12,932813,5,4,1,3
+Intermedia,64,Femenino,112175,Primaria,12,Empleado,Si,79590,Rural,12,12,12,79590,4,4,1,3
+Plena,44,Femenino,7949275,Primaria,8,Pensionado,No,7594171,Urbano,85,85,8,7594171,1,2,5,1
+Intermedia,48,Femenino,4865196,Universitario,15,Pensionado,Si,6852325,Rural,11,11,15,6852325,4,5,5,2
+Intermedia,52,Masculino,5945960,Secundaria,4,Pensionado,Si,3594216,Urbano,21,21,4,3594216,3,1,3,1
+Plena,47,Femenino,404955,Universitario,16,Pensionado,No,494154,Urbano,36,36,16,494154,2,5,1,3
+Intermedia,40,Femenino,6529533,Secundaria,11,Pensionado,No,7752404,Urbano,13,13,11,7752404,4,3,5,2
+Plena,47,Masculino,6443072,Tecnico,8,Ama de casa,No,3838487,Urbano,107,107,8,3838487,1,2,3,1
+Plena,58,Femenino,5859312,Secundaria,10,Empleado,Si,8335296,Urbano,98,98,10,8335296,1,3,5,1
+Intermedia,33,Masculino,4871990,Sin educacion,9,Independiente,Si,5205586,Urbano,8,8,9,5205586,4,3,4,2
+Intermedia,47,Femenino,6742579,Primaria,16,Independiente,No,5823738,Urbano,20,20,16,5823738,3,5,4,2
+Intermedia,37,Masculino,4578105,Tecnico,5,Estudiante,Si,5752566,Urbano,10,10,5,5752566,4,1,4,1
+Intermedia,59,Masculino,4531413,Tecnico,6,Ama de casa,Si,3431936,Urbano,10,10,6,3431936,4,2,3,0
+Basica,27,Masculino,5151532,Secundaria,15,Pensionado,Si,6148404,Rural,1,1,15,6148404,5,5,4,2
+Intermedia,38,Masculino,5902495,Secundaria,7,Pensionado,Si,3185643,Urbano,28,28,7,3185643,2,2,3,1
+Intermedia,50,Femenino,3449892,Universitario,15,Estudiante,Si,4620813,Rural,20,20,15,4620813,3,5,4,2
+Basica,64,Masculino,3678464,Sin educacion,18,Independiente,Si,3487812,Rural,1,1,18,3487812,5,5,3,3
+Intermedia,44,Femenino,3035998,Primaria,8,Pensionado,Si,3450997,Rural,9,9,8,3450997,4,2,3,0
+Plena,38,Femenino,2380305,Secundaria,13,Independiente,Si,1716766,Rural,71,71,13,1716766,1,4,2,3
+Intermedia,68,Femenino,4655445,Tecnico,4,Estudiante,No,5479802,Rural,8,8,4,5479802,4,1,4,1
+Basica,28,Femenino,4826547,Universitario,14,Independiente,Si,6140527,Rural,4,4,14,6140527,5,4,4,2
+Intermedia,19,Femenino,7247288,Primaria,11,Independiente,Si,7053156,Rural,20,20,11,7053156,3,3,5,2
+Plena,50,Masculino,3555815,Universitario,12,Independiente,No,3974430,Urbano,127,127,12,3974430,1,4,3,2
+Intermedia,39,Femenino,4115884,Universitario,7,Pensionado,No,3936127,Rural,8,8,7,3936127,4,2,3,0
+Plena,33,Masculino,2201013,Secundaria,2,Empleado,No,3068413,Urbano,33,33,2,3068413,2,1,3,0
+Plena,54,Masculino,10354564,Tecnico,13,Ama de casa,Si,10332500,Urbano,43,43,13,10332500,2,4,5,2
+Intermedia,48,Femenino,7652720,Secundaria,0,Independiente,No,10268486,Urbano,8,8,0,10268486,4,1,5,1
+Plena,38,Femenino,6754893,Universitario,8,Independiente,No,8790494,Urbano,39,39,8,8790494,2,2,5,1
+Intermedia,30,Femenino,6274430,Primaria,15,Independiente,Si,5712899,Urbano,13,13,15,5712899,4,5,4,2
+Intermedia,55,Femenino,5577781,Tecnico,11,Empleado,Si,4072251,Urbano,30,30,11,4072251,2,3,3,2
+Intermedia,53,Femenino,4626634,Secundaria,20,Estudiante,No,4192110,Urbano,30,30,20,4192110,2,5,3,2
+Intermedia,44,Femenino,416114,Universitario,15,Pensionado,No,551858,Urbano,23,23,15,551858,3,5,1,3
+Basica,67,Femenino,2364775,Primaria,7,Empleado,Si,1720687,Rural,2,2,7,1720687,5,2,2,0
+Plena,32,Masculino,7017778,Tecnico,10,Independiente,Si,7189267,Urbano,54,54,10,7189267,1,3,5,2
+Intermedia,27,Masculino,5284747,Universitario,10,Empleado,Si,6902391,Urbano,11,11,10,6902391,4,3,5,2
+Basica,37,Femenino,1940238,Tecnico,2,Empleado,Si,1655949,Rural,6,6,2,1655949,4,1,2,0
+Basica,44,Masculino,4896798,Tecnico,5,Empleado,Si,5593170,Urbano,1,1,5,5593170,5,1,4,1
+Intermedia,48,Femenino,1305385,Sin educacion,7,Estudiante,No,973336,Urbano,26,26,7,973336,3,2,1,0
+Plena,42,Femenino,5203738,Universitario,0,Ama de casa,Si,3170531,Urbano,33,33,0,3170531,2,1,3,0
+Basica,49,Masculino,3592597,Sin educacion,10,Pensionado,Si,4650201,Rural,1,1,10,4650201,5,3,4,2
+Intermedia,30,Femenino,5437659,Secundaria,9,Estudiante,Si,3256987,Urbano,21,21,9,3256987,3,3,3,2
+Intermedia,62,Femenino,5059384,Secundaria,2,Estudiante,Si,3902715,Rural,7,7,2,3902715,4,1,3,0
+Intermedia,44,Masculino,2147248,Secundaria,12,Ama de casa,Si,2909756,Urbano,31,31,12,2909756,2,4,3,3
+Basica,58,Masculino,812274,Secundaria,14,Estudiante,No,687565,Urbano,5,5,14,687565,5,4,1,3
+Plena,49,Masculino,6613779,Universitario,11,Empleado,Si,9742396,Urbano,35,35,11,9742396,2,3,5,1
+Intermedia,50,Masculino,4674557,Primaria,8,Empleado,No,6917102,Rural,14,14,8,6917102,4,2,5,1
+Plena,52,Masculino,1865303,Universitario,13,Independiente,Si,1433068,Urbano,82,82,13,1433068,1,4,2,3
+Basica,50,Femenino,3666724,Primaria,13,Estudiante,No,1983618,Urbano,4,4,13,1983618,5,4,2,3
+Intermedia,53,Femenino,3550342,Primaria,12,Independiente,No,4278387,Rural,12,12,12,4278387,4,4,3,3
+Basica,61,Femenino,3472355,Sin educacion,6,Pensionado,Si,3302163,Rural,3,3,6,3302163,5,2,3,0
+Plena,47,Femenino,8708618,Universitario,11,Empleado,Si,5231727,Rural,77,77,11,5231727,1,3,4,2
+Plena,54,Femenino,1765176,Universitario,16,Pensionado,Si,2131490,Urbano,62,62,16,2131490,1,5,2,3
+Intermedia,44,Femenino,149330,Universitario,7,Ama de casa,Si,79320,Urbano,8,8,7,79320,4,2,1,0
+Plena,62,Masculino,8102667,Universitario,20,Empleado,Si,11102248,Urbano,32,32,20,11102248,2,5,5,2
+Plena,37,Masculino,6340853,Secundaria,7,Pensionado,No,4049602,Urbano,50,50,7,4049602,1,2,3,1
+Intermedia,67,Masculino,5457189,Secundaria,10,Ama de casa,Si,3423359,Urbano,24,24,10,3423359,3,3,3,3
+Intermedia,45,Femenino,6537609,Tecnico,7,Pensionado,Si,4417281,Urbano,22,22,7,4417281,3,2,3,1
+Intermedia,28,Masculino,6261925,Secundaria,11,Ama de casa,No,9144078,Rural,8,8,11,9144078,4,3,5,2
+Basica,47,Femenino,4996785,Primaria,1,Ama de casa,Si,5962011,Rural,2,2,1,5962011,5,1,4,1
+Plena,37,Masculino,5573725,Tecnico,7,Empleado,No,7253487,Urbano,68,68,7,7253487,1,2,5,1
+Plena,55,Femenino,5080355,Tecnico,5,Independiente,Si,4560304,Urbano,69,69,5,4560304,1,1,4,1
+Intermedia,37,Masculino,3134720,Secundaria,11,Ama de casa,No,2621606,Urbano,30,30,11,2621606,2,3,2,3
+Intermedia,40,Femenino,1198790,Primaria,15,Ama de casa,Si,880492,Rural,12,12,15,880492,4,5,1,3
+Intermedia,22,Masculino,4466336,Secundaria,13,Empleado,No,4379904,Rural,12,12,13,4379904,4,4,3,2
+Plena,40,Masculino,2880930,Tecnico,0,Independiente,No,3030245,Urbano,38,38,0,3030245,2,1,3,0
+Plena,18,Femenino,9581598,Tecnico,20,Estudiante,Si,10844212,Urbano,68,68,20,10844212,1,5,5,2
+Plena,26,Femenino,6065184,Secundaria,11,Estudiante,Si,4592063,Urbano,65,65,11,4592063,1,3,4,2
+Plena,54,Masculino,6165538,Universitario,6,Independiente,Si,8931732,Urbano,45,45,6,8931732,2,2,5,1
+Intermedia,54,Femenino,2768412,Sin educacion,11,Pensionado,No,1854167,Urbano,30,30,11,1854167,2,3,2,3
+Basica,50,Masculino,270345,Primaria,11,Empleado,No,396232,Rural,2,2,11,396232,5,3,1,3
+Basica,33,Masculino,165068,Secundaria,7,Independiente,No,84986,Rural,5,5,7,84986,5,2,1,0
+Plena,44,Femenino,4402685,Tecnico,11,Estudiante,Si,4319587,Urbano,68,68,11,4319587,1,3,3,2
+Intermedia,45,Femenino,659610,Primaria,7,Ama de casa,Si,549698,Urbano,27,27,7,549698,2,2,1,0
+Basica,31,Femenino,3155604,Secundaria,8,Estudiante,No,2995058,Rural,1,1,8,2995058,5,2,3,0
+Basica,63,Masculino,4581060,Secundaria,7,Ama de casa,Si,4904779,Rural,3,3,7,4904779,5,2,4,1
+Plena,56,Femenino,9182314,Universitario,3,Empleado,No,8590873,Urbano,32,32,3,8590873,2,1,5,1
+Basica,42,Femenino,3427036,Secundaria,11,Ama de casa,Si,3135213,Urbano,1,1,11,3135213,5,3,3,3
+Basica,45,Femenino,1098406,Secundaria,13,Independiente,Si,1354031,Rural,5,5,13,1354031,5,4,2,3
+Intermedia,48,Masculino,6731375,Secundaria,13,Ama de casa,No,7982578,Urbano,23,23,13,7982578,3,4,5,2
+Plena,20,Masculino,9215372,Primaria,14,Pensionado,Si,12286591,Urbano,35,35,14,12286591,2,4,5,2
+Plena,42,Masculino,2045197,Secundaria,12,Independiente,Si,1533814,Urbano,31,31,12,1533814,2,4,2,3
+Intermedia,37,Femenino,5751923,Secundaria,7,Empleado,Si,6381923,Urbano,7,7,7,6381923,4,2,4,1
+Plena,33,Masculino,2979803,Tecnico,14,Independiente,Si,3233667,Urbano,37,37,14,3233667,2,4,3,2
+Intermedia,42,Femenino,6260594,Secundaria,3,Pensionado,Si,5445075,Urbano,8,8,3,5445075,4,1,4,1
+Intermedia,67,Masculino,7778456,Primaria,5,Empleado,No,7670005,Rural,11,11,5,7670005,4,1,5,1
+Plena,53,Masculino,312270,Sin educacion,5,Estudiante,Si,254120,Urbano,41,41,5,254120,2,1,1,0
+Intermedia,38,Femenino,6999454,Secundaria,15,Pensionado,No,4492560,Urbano,31,31,15,4492560,2,5,3,2
+Plena,52,Femenino,6475358,Secundaria,15,Empleado,Si,4622118,Urbano,56,56,15,4622118,1,5,4,2
+Plena,62,Masculino,10123179,Universitario,12,Ama de casa,Si,6129723,Urbano,32,32,12,6129723,2,4,4,2
+Intermedia,56,Femenino,3627074,Sin educacion,15,Independiente,No,4291081,Urbano,25,25,15,4291081,3,5,3,3
+Basica,46,Masculino,4406417,Secundaria,6,Empleado,No,5114649,Rural,2,2,6,5114649,5,2,4,1
+Intermedia,37,Femenino,2121589,Secundaria,2,Estudiante,No,1552118,Rural,13,13,2,1552118,4,1,2,0
+Basica,56,Femenino,1357452,Universitario,7,Pensionado,Si,1517217,Urbano,9,9,7,1517217,4,2,2,0
+Basica,41,Masculino,1785611,Primaria,10,Empleado,No,2043495,Urbano,8,8,10,2043495,4,3,2,3
+Plena,60,Masculino,8679547,Primaria,8,Ama de casa,Si,4585730,Urbano,108,108,8,4585730,1,2,4,1
+Basica,37,Masculino,4864519,Primaria,16,Estudiante,Si,6462661,Rural,14,14,16,6462661,4,5,4,2
+Plena,48,Femenino,1931624,Tecnico,0,Ama de casa,No,2488463,Urbano,66,66,0,2488463,1,1,2,0
+Plena,35,Femenino,3874093,Secundaria,10,Pensionado,Si,2940573,Urbano,29,29,10,2940573,2,3,3,0
+Basica,71,Femenino,4828879,Sin educacion,9,Estudiante,Si,5836554,Urbano,47,47,9,5836554,2,3,4,1
+Basica,31,Femenino,321404,Universitario,8,Pensionado,Si,229757,Rural,20,20,8,229757,3,2,1,0
+Plena,49,Femenino,960549,Universitario,19,Ama de casa,Si,519014,Urbano,25,25,19,519014,3,5,1,3
+Intermedia,53,Femenino,1269770,Tecnico,6,Pensionado,Si,890282,Rural,20,20,6,890282,3,2,1,0
+Intermedia,50,Femenino,4642660,Primaria,14,Estudiante,No,3150643,Rural,6,6,14,3150643,4,4,3,3
+Plena,43,Masculino,1564912,Primaria,12,Estudiante,Si,1311002,Urbano,38,38,12,1311002,2,4,2,3
+Plena,43,Femenino,10067994,Primaria,16,Pensionado,Si,9246944,Urbano,9,9,16,9246944,4,5,5,2
+Plena,46,Femenino,4645831,Universitario,7,Estudiante,No,4685501,Urbano,1,1,7,4685501,5,2,4,1
+Plena,43,Masculino,5215787,Universitario,6,Estudiante,No,5094540,Urbano,31,31,6,5094540,2,2,4,1
+Intermedia,57,Masculino,1923937,Secundaria,15,Pensionado,No,1482729,Urbano,5,5,15,1482729,5,5,2,3
+Basica,72,Masculino,2448993,Sin educacion,12,Ama de casa,Si,1295935,Urbano,84,84,12,1295935,1,4,2,3
+Plena,38,Masculino,6883902,Tecnico,2,Estudiante,Si,7607411,Urbano,92,92,2,7607411,1,1,5,1
+Intermedia,29,Femenino,5859182,Secundaria,7,Estudiante,Si,5248332,Urbano,73,73,7,5248332,1,2,4,1
+Intermedia,44,Masculino,5880171,Secundaria,12,Estudiante,Si,4696329,Rural,13,13,12,4696329,4,4,4,2
+Plena,76,Femenino,6010068,Tecnico,14,Estudiante,No,8215409,Urbano,1,1,14,8215409,5,4,5,2
+Basica,35,Femenino,4702671,Secundaria,7,Pensionado,No,5863024,Rural,79,79,7,5863024,1,2,4,1
+Intermedia,65,Femenino,6375781,Primaria,0,Ama de casa,Si,8656816,Urbano,16,16,0,8656816,3,1,5,1
+Basica,65,Femenino,3936650,Sin educacion,13,Ama de casa,Si,3916899,Urbano,102,102,13,3916899,1,4,3,3
+Intermedia,38,Femenino,433723,Universitario,4,Empleado,Si,273649,Rural,99,99,4,273649,1,1,1,0
+Basica,52,Masculino,35765,Primaria,0,Estudiante,Si,42783,Urbano,57,57,0,42783,1,1,1,0
+Basica,65,Masculino,1104726,Sin educacion,0,Estudiante,No,780018,Rural,10,10,0,780018,4,1,1,0
+Basica,40,Masculino,3450323,Sin educacion,14,Empleado,No,3247546,Rural,14,14,14,3247546,4,4,3,3
+Intermedia,43,Femenino,3207340,Sin educacion,11,Ama de casa,Si,1812150,Rural,57,57,11,1812150,1,3,2,0
+Plena,38,Masculino,4185025,Tecnico,9,Independiente,No,5546449,Urbano,11,11,9,5546449,4,3,4,2
+Intermedia,33,Masculino,6899778,Universitario,17,Independiente,Si,4318851,Urbano,5,5,17,4318851,5,5,3,2
+Plena,37,Femenino,9313854,Secundaria,13,Ama de casa,Si,13068245,Urbano,24,24,13,13068245,3,4,5,2
+Intermedia,30,Masculino,7091567,Secundaria,18,Estudiante,No,9674533,Urbano,82,82,18,9674533,1,5,5,2
+Intermedia,45,Femenino,2448249,Tecnico,3,Independiente,Si,2361539,Urbano,35,35,3,2361539,2,1,2,0
+Plena,36,Femenino,7186980,Tecnico,10,Pensionado,No,8943249,Urbano,25,25,10,8943249,3,3,5,1
+Intermedia,48,Masculino,2118739,Universitario,2,Pensionado,Si,2371812,Urbano,3,3,2,2371812,5,1,2,0
+Plena,26,Femenino,1982342,Universitario,9,Empleado,No,2583142,Urbano,28,28,9,2583142,2,3,2,0
+Basica,49,Femenino,960089,Sin educacion,9,Ama de casa,Si,894616,Urbano,138,138,9,894616,1,3,1,0
+Plena,55,Masculino,3557919,Universitario,13,Ama de casa,No,4574802,Urbano,4,4,13,4574802,5,4,4,2
+Basica,21,Masculino,2235780,Primaria,10,Independiente,Si,2151842,Rural,21,21,10,2151842,3,3,2,0
+Plena,49,Femenino,8641871,Universitario,13,Estudiante,Si,12452640,Urbano,62,62,13,12452640,1,4,5,2
+Intermedia,60,Femenino,935151,Secundaria,14,Ama de casa,No,922407,Urbano,40,40,14,922407,2,5,1,3
+Plena,30,Femenino,7643229,Universitario,21,Independiente,Si,7357520,Urbano,35,35,21,7357520,2,5,5,2
+Basica,65,Masculino,2763566,Secundaria,8,Independiente,No,3551381,Rural,36,36,8,3551381,2,2,3,0
+Intermedia,50,Femenino,2245974,Primaria,5,Ama de casa,No,2968229,Urbano,13,13,5,2968229,4,1,3,0
+Plena,37,Femenino,5125324,Tecnico,11,Independiente,Si,5404598,Urbano,10,10,11,5404598,4,3,4,2
+Intermedia,44,Masculino,2339548,Universitario,6,Empleado,Si,1590420,Urbano,49,49,6,1590420,1,2,2,0
+Intermedia,52,Femenino,4649439,Universitario,17,Empleado,Si,4499533,Urbano,49,49,17,4499533,1,5,4,2
+Plena,46,Femenino,4511977,Primaria,9,Ama de casa,Si,6623909,Rural,60,60,9,6623909,1,3,4,1
+Intermedia,51,Femenino,1282363,Tecnico,7,Estudiante,No,1606783,Urbano,73,73,7,1606783,1,2,2,0
+Intermedia,34,Masculino,909348,Secundaria,8,Empleado,Si,1192303,Urbano,21,21,8,1192303,3,2,1,0
+Intermedia,47,Femenino,4264226,Sin educacion,14,Empleado,Si,2272088,Urbano,20,20,14,2272088,3,5,2,3
+Plena,28,Femenino,9385096,Tecnico,9,Ama de casa,Si,9083454,Urbano,48,48,9,9083454,2,3,5,1
+Basica,44,Masculino,1788580,Primaria,7,Pensionado,No,2050824,Urbano,31,31,7,2050824,2,2,2,0
+Intermedia,34,Femenino,5717401,Universitario,18,Independiente,Si,7604330,Rural,36,36,18,7604330,2,5,5,2
+Plena,36,Femenino,6850078,Secundaria,6,Empleado,No,3762567,Urbano,47,47,6,3762567,2,2,3,1
+Plena,60,Masculino,9688171,Universitario,10,Pensionado,Si,13102659,Urbano,66,66,10,13102659,1,3,5,1
+Intermedia,58,Femenino,6403652,Sin educacion,13,Estudiante,No,6713595,Rural,12,12,13,6713595,4,4,4,2
+Intermedia,52,Femenino,4419521,Secundaria,2,Pensionado,Si,3081794,Rural,14,14,2,3081794,4,1,3,0
+Intermedia,32,Femenino,5124838,Primaria,12,Ama de casa,Si,4188301,Urbano,2,2,12,4188301,5,4,3,2
+Basica,41,Femenino,4671610,Primaria,5,Estudiante,No,3652870,Urbano,25,25,5,3652870,3,1,3,0
+Intermedia,60,Femenino,3116247,Sin educacion,14,Estudiante,Si,3212411,Rural,1,1,14,3212411,5,5,3,3
+Intermedia,47,Masculino,2548999,Primaria,5,Pensionado,Si,1406246,Urbano,18,18,5,1406246,3,1,2,0
+Intermedia,73,Masculino,84326,Secundaria,13,Ama de casa,Si,55532,Urbano,23,23,13,55532,3,4,1,3
+Basica,50,Masculino,4298066,Primaria,16,Empleado,No,5642041,Rural,10,10,16,5642041,4,5,4,2
+Plena,47,Masculino,8330199,Tecnico,14,Pensionado,Si,5269717,Urbano,26,26,14,5269717,3,5,4,2
+Plena,41,Femenino,1086327,Tecnico,11,Empleado,No,796708,Urbano,1,1,11,796708,5,3,1,3
+Plena,47,Masculino,5999317,Universitario,9,Pensionado,No,5719572,Urbano,1,1,9,5719572,5,3,4,1
+Intermedia,43,Femenino,3619057,Universitario,7,Empleado,No,3681018,Rural,51,51,7,3681018,1,2,3,0
+Intermedia,53,Masculino,925931,Secundaria,17,Pensionado,Si,1170016,Urbano,13,13,17,1170016,4,5,1,3
+Plena,56,Masculino,10197910,Secundaria,7,Estudiante,No,9660811,Urbano,4,4,7,9660811,5,2,5,1
+Plena,36,Masculino,2232837,Primaria,5,Independiente,No,2880057,Urbano,22,22,5,2880057,3,1,3,0
+Basica,29,Masculino,349618,Universitario,13,Estudiante,Si,390994,Urbano,44,44,13,390994,2,4,1,3
+Plena,23,Masculino,6186413,Primaria,6,Empleado,No,3792888,Urbano,7,7,6,3792888,4,2,3,1
+Plena,51,Femenino,7684213,Secundaria,5,Ama de casa,No,5043391,Urbano,29,29,5,5043391,2,1,4,1
+Plena,32,Femenino,337412,Secundaria,3,Estudiante,Si,316166,Urbano,2,2,3,316166,5,1,1,0
+Plena,19,Masculino,6850663,Secundaria,8,Independiente,Si,6144287,Rural,1,1,8,6144287,5,2,4,1
+Intermedia,50,Femenino,4151877,Primaria,10,Empleado,No,5163043,Urbano,22,22,10,5163043,3,3,4,2
+Intermedia,75,Masculino,805467,Tecnico,11,Estudiante,Si,870498,Rural,23,23,11,870498,3,3,1,3
+Plena,45,Masculino,1794248,Primaria,15,Pensionado,Si,1593531,Urbano,30,30,15,1593531,2,5,2,3
+Plena,55,Femenino,5906933,Tecnico,13,Ama de casa,Si,3962136,Urbano,38,38,13,3962136,2,4,3,2
+Basica,46,Masculino,1541060,Sin educacion,9,Empleado,No,1120100,Rural,111,111,9,1120100,1,3,1,0
+Basica,44,Masculino,4879242,Sin educacion,9,Estudiante,No,5247630,Urbano,21,21,9,5247630,3,3,4,2
+Intermedia,56,Masculino,6386174,Universitario,13,Empleado,Si,5897241,Rural,11,11,13,5897241,4,4,4,2
+Plena,42,Masculino,10229099,Secundaria,16,Pensionado,No,10381794,Rural,47,47,16,10381794,2,5,5,2
+Plena,48,Femenino,2700577,Universitario,11,Independiente,Si,1811216,Urbano,9,9,11,1811216,4,3,2,3
+Basica,49,Masculino,5042563,Secundaria,8,Estudiante,Si,5864028,Rural,17,17,8,5864028,3,2,4,1
+Intermedia,37,Masculino,3363624,Sin educacion,5,Empleado,Si,4549432,Urbano,2,2,5,4549432,5,1,4,0
+Intermedia,57,Femenino,2710647,Universitario,3,Empleado,Si,2054506,Urbano,1,1,3,2054506,5,1,2,0
+Plena,43,Femenino,523635,Secundaria,13,Empleado,Si,519192,Urbano,98,98,13,519192,1,4,1,3
+Plena,36,Masculino,548759,Universitario,13,Independiente,No,809709,Urbano,54,54,13,809709,1,4,1,3
+Plena,51,Femenino,7196917,Secundaria,13,Empleado,No,5996772,Urbano,35,35,13,5996772,2,4,4,2
+Intermedia,34,Masculino,3571846,Universitario,9,Ama de casa,No,3911337,Urbano,15,15,9,3911337,3,3,3,0
+Intermedia,45,Masculino,1766869,Sin educacion,17,Ama de casa,No,1042798,Urbano,5,5,17,1042798,5,5,1,3
+Intermedia,45,Femenino,4788968,Secundaria,8,Empleado,Si,5296670,Urbano,5,5,8,5296670,5,2,4,1
+Basica,58,Masculino,1314862,Secundaria,15,Ama de casa,Si,775284,Urbano,8,8,15,775284,4,5,1,3
+Plena,51,Masculino,6007370,Universitario,10,Estudiante,No,8766167,Urbano,23,23,10,8766167,3,3,5,1
+Plena,45,Femenino,3735771,Universitario,7,Ama de casa,No,4541437,Urbano,37,37,7,4541437,2,2,4,1
+Plena,55,Femenino,8564943,Universitario,13,Empleado,Si,11033015,Urbano,32,32,13,11033015,2,4,5,2
+Plena,62,Femenino,8535240,Universitario,12,Pensionado,Si,10277320,Rural,9,9,12,10277320,4,4,5,2
+Intermedia,52,Femenino,3723333,Primaria,12,Estudiante,Si,4057424,Rural,92,92,12,4057424,1,4,3,2
+Plena,45,Masculino,3648519,Secundaria,10,Independiente,No,3465775,Urbano,40,40,10,3465775,2,3,3,0
+Plena,29,Femenino,3770622,Secundaria,10,Empleado,Si,5121913,Urbano,24,24,10,5121913,3,3,4,2
+Plena,32,Masculino,8379431,Tecnico,22,Independiente,Si,12207454,Rural,28,28,22,12207454,2,5,5,2
+Intermedia,41,Femenino,2559800,Secundaria,16,Pensionado,No,2557333,Urbano,16,16,16,2557333,3,5,2,3
+Intermedia,38,Femenino,1630663,Secundaria,14,Independiente,No,2334351,Rural,8,8,14,2334351,4,5,2,3
+Basica,43,Masculino,440379,Sin educacion,11,Empleado,No,477077,Rural,13,13,11,477077,4,3,1,3
+Plena,46,Masculino,4853608,Universitario,15,Empleado,Si,5039910,Urbano,42,42,15,5039910,2,5,4,2
+Intermedia,51,Femenino,3760630,Primaria,13,Pensionado,Si,3380580,Urbano,1,1,13,3380580,5,4,3,3
+Intermedia,44,Masculino,6559088,Secundaria,10,Empleado,No,4652281,Urbano,3,3,10,4652281,5,3,4,2
+Plena,51,Femenino,2300882,Tecnico,8,Pensionado,Si,1159000,Urbano,1,1,8,1159000,5,2,1,0
+Intermedia,46,Femenino,2971732,Tecnico,10,Pensionado,Si,2203558,Urbano,1,1,10,2203558,5,3,2,3
+Intermedia,21,Masculino,6305565,Tecnico,0,Empleado,Si,6366875,Rural,58,58,0,6366875,1,1,4,1
+Basica,34,Femenino,4282843,Secundaria,11,Ama de casa,No,3768730,Rural,36,36,11,3768730,2,3,3,2
+Plena,43,Femenino,3999955,Secundaria,8,Pensionado,No,3793898,Urbano,19,19,8,3793898,3,2,3,0
+Intermedia,30,Masculino,3581167,Secundaria,18,Empleado,Si,5302449,Urbano,3,3,18,5302449,5,5,4,2
+Plena,52,Masculino,3154173,Primaria,10,Ama de casa,Si,2681906,Urbano,20,20,10,2681906,3,3,2,3
+Intermedia,63,Masculino,7273928,Secundaria,4,Pensionado,Si,6926110,Rural,19,19,4,6926110,3,1,5,1
+Plena,60,Femenino,1233895,Tecnico,10,Ama de casa,Si,781692,Urbano,5,5,10,781692,5,3,1,3
+Intermedia,42,Masculino,7283245,Sin educacion,5,Estudiante,No,3990910,Rural,17,17,5,3990910,3,1,3,1
+Intermedia,63,Femenino,5334158,Primaria,12,Estudiante,No,6803236,Urbano,15,15,12,6803236,3,4,5,2
+Plena,47,Femenino,5528350,Universitario,11,Ama de casa,Si,5919111,Urbano,28,28,11,5919111,2,3,4,2
+Intermedia,41,Masculino,254741,Universitario,15,Pensionado,Si,321153,Urbano,30,30,15,321153,2,5,1,3
+Basica,38,Femenino,2473100,Primaria,6,Empleado,No,1607176,Rural,1,1,6,1607176,5,2,2,0
+Basica,41,Masculino,2120290,Sin educacion,10,Independiente,Si,2272588,Urbano,14,14,10,2272588,4,3,2,3
+Plena,40,Masculino,1676676,Secundaria,3,Empleado,No,1263614,Urbano,29,29,3,1263614,2,1,1,0
+Intermedia,47,Femenino,5119995,Secundaria,14,Independiente,Si,3727673,Urbano,20,20,14,3727673,3,5,3,2
+Plena,47,Masculino,10099969,Universitario,13,Independiente,No,5166397,Urbano,58,58,13,5166397,1,4,4,2
+Intermedia,45,Femenino,4385073,Primaria,12,Pensionado,Si,2764090,Urbano,32,32,12,2764090,2,4,2,3
+Basica,50,Masculino,3716717,Secundaria,10,Ama de casa,Si,3007821,Urbano,5,5,10,3007821,5,3,3,3
+Basica,59,Femenino,355942,Sin educacion,12,Empleado,No,219573,Rural,2,2,12,219573,5,4,1,3
+Intermedia,56,Masculino,3257803,Universitario,18,Ama de casa,No,4840634,Urbano,30,30,18,4840634,2,5,4,2
+Intermedia,27,Femenino,907596,Secundaria,9,Estudiante,Si,733912,Urbano,1,1,9,733912,5,3,1,3
+Intermedia,18,Femenino,4779808,Tecnico,11,Pensionado,Si,3012827,Urbano,26,26,11,3012827,3,3,3,2
+Intermedia,56,Masculino,7320161,Secundaria,5,Pensionado,No,5117395,Urbano,84,84,5,5117395,1,1,4,1
+Plena,29,Femenino,6882488,Tecnico,6,Estudiante,No,7486104,Urbano,25,25,6,7486104,3,2,5,1
+Intermedia,42,Femenino,599064,Primaria,10,Empleado,Si,337898,Urbano,14,14,10,337898,4,3,1,3
+Intermedia,31,Femenino,2766396,Primaria,16,Estudiante,Si,3769032,Rural,30,30,16,3769032,2,5,3,2
+Plena,23,Femenino,5726899,Universitario,9,Empleado,No,8369861,Urbano,18,18,9,8369861,3,3,5,2
+Intermedia,51,Femenino,3145020,Universitario,9,Independiente,No,2348536,Rural,23,23,9,2348536,3,3,2,3
+Intermedia,54,Femenino,6502423,Universitario,8,Pensionado,No,6177921,Urbano,85,85,8,6177921,1,2,4,1
+Plena,38,Masculino,8472578,Tecnico,7,Empleado,No,4423825,Urbano,14,14,7,4423825,4,2,3,1
+Plena,18,Femenino,6363043,Universitario,11,Ama de casa,No,7258388,Rural,97,97,11,7258388,1,3,5,2
+Basica,38,Masculino,1941981,Sin educacion,3,Ama de casa,Si,1774827,Urbano,70,70,3,1774827,1,1,2,0
+Plena,50,Masculino,2655498,Secundaria,16,Pensionado,Si,2044889,Urbano,6,6,16,2044889,4,5,2,3
+Intermedia,27,Femenino,3841776,Sin educacion,11,Pensionado,No,3410592,Rural,2,2,11,3410592,5,3,3,3
+Intermedia,47,Masculino,2768202,Tecnico,14,Estudiante,Si,3194569,Rural,3,3,14,3194569,5,5,3,3
+Intermedia,45,Femenino,3222746,Secundaria,4,Empleado,Si,2952735,Urbano,1,1,4,2952735,5,1,3,0
+Plena,52,Masculino,7028558,Primaria,13,Estudiante,No,4777025,Urbano,2,2,13,4777025,5,4,4,2
+Intermedia,46,Femenino,5133647,Secundaria,13,Pensionado,Si,6104466,Rural,34,34,13,6104466,2,4,4,2
+Intermedia,33,Femenino,546843,Universitario,12,Empleado,Si,582427,Urbano,2,2,12,582427,5,4,1,3
+Intermedia,59,Masculino,3083023,Secundaria,5,Independiente,Si,4188817,Urbano,11,11,5,4188817,4,1,3,0
+Intermedia,43,Masculino,1417875,Primaria,11,Estudiante,No,875504,Urbano,55,55,11,875504,1,3,1,3
+Basica,45,Femenino,2873844,Primaria,5,Estudiante,Si,3270701,Rural,1,1,5,3270701,5,1,3,0
+Basica,54,Femenino,1935301,Primaria,7,Empleado,Si,1525312,Rural,50,50,7,1525312,1,2,2,0
+Plena,46,Femenino,6881340,Secundaria,8,Independiente,No,5064721,Urbano,9,9,8,5064721,4,2,4,1
+Plena,54,Masculino,1468725,Secundaria,14,Ama de casa,Si,1807288,Urbano,3,3,14,1807288,5,5,2,3
+Plena,44,Femenino,5937125,Universitario,18,Empleado,No,3207978,Urbano,35,35,18,3207978,2,5,3,2
+Intermedia,46,Masculino,1445109,Universitario,6,Estudiante,Si,859505,Rural,29,29,6,859505,2,2,1,0
+Basica,21,Femenino,1448944,Primaria,15,Estudiante,No,734308,Rural,62,62,15,734308,1,5,1,3
+Basica,56,Femenino,1137291,Secundaria,0,Independiente,Si,742586,Rural,39,39,0,742586,2,1,1,0
+Intermedia,49,Femenino,1426135,Universitario,4,Empleado,No,811457,Rural,48,48,4,811457,2,1,1,0
+Intermedia,57,Femenino,6440545,Universitario,5,Pensionado,No,9633782,Urbano,9,9,5,9633782,4,1,5,1
+Plena,18,Femenino,2971359,Secundaria,3,Empleado,No,2343838,Urbano,5,5,3,2343838,5,1,2,0
+Plena,70,Masculino,9642087,Universitario,2,Estudiante,No,6260299,Urbano,41,41,2,6260299,2,1,4,1
+Intermedia,43,Femenino,7565427,Secundaria,12,Independiente,Si,5605953,Urbano,49,49,12,5605953,1,4,4,2
+Plena,58,Masculino,5941109,Secundaria,9,Independiente,Si,8532179,Rural,139,139,9,8532179,1,3,5,1
+Plena,33,Femenino,1487212,Primaria,12,Pensionado,No,1517195,Urbano,15,15,12,1517195,3,4,2,3
+Intermedia,52,Femenino,2921476,Secundaria,13,Independiente,Si,2526545,Urbano,13,13,13,2526545,4,4,2,3
+Intermedia,32,Masculino,6222312,Primaria,11,Independiente,No,8545670,Urbano,44,44,11,8545670,2,3,5,2
+Intermedia,38,Femenino,2865648,Primaria,13,Independiente,No,2564727,Rural,12,12,13,2564727,4,4,2,3
+Intermedia,68,Femenino,678734,Secundaria,10,Independiente,Si,566749,Urbano,80,80,10,566749,1,3,1,3
+Intermedia,43,Femenino,4655903,Universitario,4,Independiente,Si,4894832,Urbano,58,58,4,4894832,1,1,4,1
+Plena,48,Masculino,8789257,Universitario,15,Estudiante,No,7715182,Urbano,16,16,15,7715182,3,5,5,2
+Basica,55,Masculino,4138817,Primaria,7,Empleado,Si,3380107,Rural,41,41,7,3380107,2,2,3,0
+Basica,51,Femenino,910640,Tecnico,5,Ama de casa,No,1072100,Urbano,42,42,5,1072100,2,1,1,0
+Basica,47,Masculino,3498376,Tecnico,9,Independiente,Si,2762257,Urbano,3,3,9,2762257,5,3,2,3
+Basica,49,Masculino,1146622,Secundaria,5,Ama de casa,Si,1235141,Rural,69,69,5,1235141,1,1,1,0
+Plena,74,Femenino,2269358,Primaria,8,Ama de casa,Si,1284212,Urbano,21,21,8,1284212,3,2,2,0
+Plena,44,Masculino,9090346,Universitario,12,Estudiante,Si,6284058,Urbano,52,52,12,6284058,1,4,4,2
+Intermedia,47,Femenino,1947418,Universitario,12,Independiente,Si,1767097,Urbano,11,11,12,1767097,4,4,2,3
+Basica,58,Masculino,1368886,Secundaria,6,Ama de casa,No,1967020,Rural,67,67,6,1967020,1,2,2,0
+Intermedia,58,Femenino,5096,Secundaria,8,Independiente,Si,4470,Urbano,14,14,8,4470,4,2,1,0
+Intermedia,59,Masculino,6791218,Secundaria,15,Pensionado,Si,7905481,Urbano,1,1,15,7905481,5,5,5,2
+Basica,53,Femenino,4121493,Secundaria,12,Pensionado,No,3112087,Rural,70,70,12,3112087,1,4,3,2
+Intermedia,31,Femenino,4893166,Secundaria,20,Pensionado,No,3068179,Urbano,2,2,20,3068179,5,5,3,2
+Intermedia,65,Masculino,5852073,Primaria,16,Ama de casa,No,3268597,Urbano,11,11,16,3268597,4,5,3,3
+Intermedia,31,Masculino,1185979,Secundaria,16,Pensionado,Si,955203,Urbano,89,89,16,955203,1,5,1,3
+Intermedia,49,Femenino,3574924,Universitario,3,Estudiante,Si,2351088,Urbano,90,90,3,2351088,1,1,2,0
+Basica,36,Femenino,1826341,Tecnico,14,Estudiante,No,1230973,Urbano,25,25,14,1230973,3,5,1,3
+Intermedia,44,Masculino,731457,Primaria,10,Ama de casa,No,922191,Urbano,29,29,10,922191,2,3,1,3
+Intermedia,49,Masculino,3791818,Universitario,7,Independiente,No,1955964,Rural,17,17,7,1955964,3,2,2,0
+Intermedia,49,Masculino,7181769,Secundaria,11,Empleado,No,7596948,Urbano,10,10,11,7596948,4,3,5,1
+Plena,50,Masculino,416615,Universitario,15,Independiente,Si,366397,Rural,11,11,15,366397,4,5,1,3
+Plena,64,Masculino,3031194,Universitario,13,Independiente,Si,3051048,Urbano,33,33,13,3051048,2,4,3,3
+Basica,50,Masculino,1079213,Tecnico,6,Independiente,Si,1147020,Rural,41,41,6,1147020,2,2,1,0
+Basica,42,Femenino,1238363,Universitario,14,Independiente,Si,1007244,Urbano,47,47,14,1007244,2,5,1,3
+Intermedia,57,Masculino,7085790,Secundaria,7,Empleado,Si,5633974,Urbano,46,46,7,5633974,2,2,4,1
+Basica,59,Masculino,2433959,Tecnico,11,Pensionado,No,3002050,Rural,2,2,11,3002050,5,3,3,3
+Intermedia,30,Masculino,3637135,Primaria,8,Independiente,Si,4987520,Rural,20,20,8,4987520,3,2,4,1
+Plena,52,Femenino,7909987,Universitario,9,Estudiante,No,5478312,Urbano,1,1,9,5478312,5,3,4,1
+Intermedia,53,Femenino,1205039,Tecnico,14,Ama de casa,No,720154,Urbano,23,23,14,720154,3,5,1,3
+Intermedia,41,Masculino,3800670,Tecnico,5,Ama de casa,No,5312561,Rural,17,17,5,5312561,3,1,4,1
+Intermedia,62,Femenino,3353885,Primaria,20,Estudiante,Si,2850452,Urbano,65,65,20,2850452,1,5,3,3
+Intermedia,43,Femenino,4655903,Universitario,1,Independiente,No,4894832,Urbano,12,12,1,4894832,4,1,4,1
+Intermedia,47,Femenino,7796550,Primaria,7,Empleado,Si,6701471,Urbano,3,3,7,6701471,5,2,4,1
+Plena,43,Femenino,8002268,Primaria,12,Pensionado,No,5007838,Urbano,4,4,12,5007838,5,4,4,2
+Intermedia,45,Femenino,3103352,Tecnico,13,Ama de casa,Si,3380580,Urbano,43,43,13,3380580,2,4,3,3
+Plena,32,Femenino,8606552,Tecnico,9,Pensionado,No,8822928,Urbano,28,28,9,8822928,2,3,5,1
+Plena,28,Femenino,1775367,Universitario,10,Empleado,Si,1248072,Urbano,3,3,10,1248072,5,3,1,3
+Basica,64,Masculino,158411,Primaria,12,Ama de casa,No,150787,Rural,2,2,12,150787,5,4,1,3
+Basica,35,Femenino,1063132,Sin educacion,9,Pensionado,No,1378826,Urbano,36,36,9,1378826,2,3,2,0
+Basica,33,Masculino,1770140,Tecnico,17,Empleado,No,1930207,Rural,2,2,17,1930207,5,5,2,3
+Basica,19,Masculino,2655020,Secundaria,14,Pensionado,No,1584827,Urbano,51,51,14,1584827,1,5,2,3
+Basica,37,Femenino,3198672,Sin educacion,14,Independiente,Si,3352277,Rural,36,36,14,3352277,2,5,3,2
+Plena,29,Masculino,9470299,Universitario,5,Empleado,Si,11390291,Rural,2,2,5,11390291,5,1,5,1
+Basica,65,Femenino,2651241,Secundaria,10,Pensionado,Si,3427268,Rural,2,2,10,3427268,5,3,3,3
+Intermedia,57,Masculino,3909950,Tecnico,8,Independiente,No,4414793,Urbano,129,129,8,4414793,1,2,3,0
+Plena,37,Femenino,522527,Tecnico,5,Independiente,No,341032,Urbano,14,14,5,341032,4,1,1,0
+Basica,72,Masculino,181540,Tecnico,12,Empleado,No,219695,Rural,13,13,12,219695,4,4,1,3
+Plena,57,Masculino,5732064,Universitario,7,Estudiante,No,6748599,Urbano,50,50,7,6748599,1,2,4,1
+Intermedia,41,Femenino,3417793,Tecnico,13,Ama de casa,No,1792383,Urbano,88,88,13,1792383,1,4,2,3
+Basica,18,Femenino,4363738,Sin educacion,5,Empleado,No,3978628,Urbano,128,128,5,3978628,1,1,3,0
+Plena,72,Masculino,1671068,Universitario,19,Independiente,Si,1391917,Urbano,41,41,19,1391917,2,5,2,3
+Intermedia,28,Masculino,194779,Tecnico,6,Independiente,Si,227777,Urbano,14,14,6,227777,4,2,1,0
+Plena,25,Femenino,4670003,Universitario,11,Empleado,Si,3344356,Urbano,2,2,11,3344356,5,3,3,2
+Plena,57,Femenino,2469777,Tecnico,14,Estudiante,Si,2694210,Urbano,45,45,14,2694210,2,5,2,3
+Plena,74,Femenino,515989,Universitario,7,Ama de casa,Si,729199,Urbano,24,24,7,729199,3,2,1,0
+Intermedia,62,Masculino,5651867,Tecnico,14,Pensionado,Si,7335006,Urbano,16,16,14,7335006,3,5,5,2
+Basica,52,Femenino,580284,Sin educacion,4,Empleado,Si,824849,Rural,71,71,4,824849,1,1,1,0
+Plena,52,Masculino,6326523,Tecnico,17,Ama de casa,Si,9353802,Urbano,3,3,17,9353802,5,5,5,2
+Plena,55,Femenino,2922917,Universitario,10,Ama de casa,No,1492646,Urbano,20,20,10,1492646,3,3,2,3
+Plena,54,Femenino,1804359,Sin educacion,7,Independiente,No,2025828,Urbano,1,1,7,2025828,5,2,2,0
+Intermedia,48,Femenino,2962062,Universitario,9,Pensionado,No,2703887,Urbano,18,18,9,2703887,3,3,2,3
+Intermedia,46,Femenino,6251277,Tecnico,14,Empleado,No,8500827,Urbano,1,1,14,8500827,5,5,5,2
+Plena,44,Femenino,4077773,Tecnico,7,Independiente,No,3065730,Urbano,3,3,7,3065730,5,2,3,0
+Intermedia,36,Masculino,5856003,Primaria,6,Independiente,No,8672913,Rural,3,3,6,8672913,5,2,5,1
+Plena,42,Masculino,1305057,Secundaria,9,Estudiante,No,1453452,Urbano,31,31,9,1453452,2,3,2,0
+Plena,25,Femenino,8036823,Universitario,4,Ama de casa,Si,10395931,Urbano,41,41,4,10395931,2,1,5,1
+Intermedia,44,Femenino,1848080,Primaria,19,Empleado,Si,1082235,Urbano,26,26,19,1082235,3,5,1,3
+Plena,33,Femenino,7044889,Universitario,7,Empleado,No,4814885,Urbano,98,98,7,4814885,1,2,4,1
+Plena,32,Femenino,5884128,Tecnico,14,Empleado,Si,7404608,Urbano,14,14,14,7404608,4,5,5,2
+Basica,47,Femenino,4831553,Sin educacion,11,Independiente,Si,2522006,Rural,10,10,11,2522006,4,3,2,3
+Plena,62,Femenino,4028154,Sin educacion,5,Estudiante,Si,5304587,Urbano,60,60,5,5304587,1,1,4,1
+Intermedia,56,Femenino,516088,Secundaria,10,Pensionado,Si,265243,Rural,7,7,10,265243,4,3,1,3
+Plena,26,Femenino,199217,Universitario,14,Independiente,Si,230518,Urbano,99,99,14,230518,1,5,1,3
+Intermedia,33,Femenino,6449497,Secundaria,9,Pensionado,No,5579421,Rural,1,1,9,5579421,5,3,4,2
+Plena,56,Masculino,5457251,Tecnico,16,Estudiante,Si,6065706,Urbano,105,105,16,6065706,1,5,4,2
+Intermedia,33,Femenino,6046904,Secundaria,15,Ama de casa,No,7232287,Rural,1,1,15,7232287,5,5,5,2
+Basica,42,Femenino,1219013,Secundaria,15,Empleado,No,1026988,Rural,66,66,15,1026988,1,5,1,3
+Plena,52,Masculino,7035431,Universitario,9,Pensionado,No,8573403,Urbano,22,22,9,8573403,3,3,5,1
+Intermedia,46,Femenino,4635086,Secundaria,5,Empleado,No,3308231,Rural,148,148,5,3308231,1,1,3,0
+Intermedia,51,Femenino,4704571,Sin educacion,16,Independiente,Si,3278868,Rural,2,2,16,3278868,5,5,3,3
+Intermedia,26,Masculino,5323753,Universitario,9,Empleado,Si,4859300,Rural,24,24,9,4859300,3,3,4,2
+Plena,39,Masculino,5983735,Tecnico,17,Ama de casa,No,4354833,Urbano,104,104,17,4354833,1,5,3,2
+Basica,55,Masculino,2231124,Secundaria,18,Pensionado,No,2418222,Rural,22,22,18,2418222,3,5,2,3
+Intermedia,30,Femenino,2152197,Primaria,10,Estudiante,No,1875561,Urbano,29,29,10,1875561,2,3,2,0
+Intermedia,49,Femenino,5994934,Secundaria,5,Empleado,No,5688663,Urbano,35,35,5,5688663,2,1,4,1
+Intermedia,29,Masculino,1764925,Secundaria,0,Ama de casa,No,1830526,Urbano,18,18,0,1830526,3,1,2,0
+Basica,51,Masculino,3600242,Sin educacion,3,Pensionado,Si,2532898,Rural,29,29,3,2532898,2,1,2,0
+Plena,45,Masculino,2426661,Primaria,3,Independiente,No,1591287,Urbano,26,26,3,1591287,3,1,2,0
+Plena,26,Femenino,6503434,Universitario,17,Pensionado,No,8977483,Urbano,69,69,17,8977483,1,5,5,2
+Intermedia,59,Masculino,5827210,Primaria,11,Independiente,Si,5441004,Urbano,1,1,11,5441004,5,3,4,2
+Plena,36,Masculino,2274624,Secundaria,12,Independiente,Si,2074670,Urbano,9,9,12,2074670,4,4,2,3
+Plena,35,Masculino,623410,Tecnico,0,Empleado,Si,333906,Urbano,90,90,0,333906,1,1,1,0
+Plena,47,Femenino,1362127,Universitario,4,Empleado,No,1359370,Rural,66,66,4,1359370,1,1,2,0
+Basica,59,Femenino,3151184,Sin educacion,14,Pensionado,Si,3321883,Rural,18,18,14,3321883,3,5,3,3
+Intermedia,33,Masculino,6625682,Secundaria,11,Ama de casa,Si,7015543,Urbano,29,29,11,7015543,2,3,5,2
+Intermedia,46,Femenino,350975,Primaria,9,Pensionado,Si,423638,Rural,9,9,9,423638,4,3,1,3
+Intermedia,50,Femenino,5726380,Sin educacion,13,Estudiante,Si,3879518,Rural,6,6,13,3879518,4,4,3,2
+Plena,53,Masculino,3549714,Primaria,18,Independiente,No,2670177,Urbano,18,18,18,2670177,3,5,2,3
+Plena,47,Femenino,4976695,Universitario,9,Independiente,No,6523106,Urbano,13,13,9,6523106,4,3,4,1
+Plena,41,Masculino,9660139,Primaria,10,Empleado,No,13979869,Urbano,26,26,10,13979869,3,3,5,1
+Intermedia,35,Femenino,2589378,Sin educacion,11,Ama de casa,Si,1646670,Urbano,2,2,11,1646670,5,4,2,3
+Basica,46,Masculino,2419752,Primaria,22,Empleado,Si,2414065,Rural,109,109,22,2414065,1,5,2,3
+Plena,32,Masculino,142297,Universitario,0,Estudiante,Si,101625,Urbano,128,128,0,101625,1,1,1,0
+Plena,18,Femenino,848627,Secundaria,13,Pensionado,Si,475293,Urbano,35,35,13,475293,2,4,1,3
+Basica,50,Femenino,1344676,Primaria,9,Pensionado,Si,1110035,Rural,23,23,9,1110035,3,3,1,3
+Plena,56,Femenino,289663,Sin educacion,13,Ama de casa,Si,186452,Urbano,11,11,13,186452,4,4,1,3
+Plena,18,Femenino,6566303,Tecnico,7,Empleado,No,7944787,Rural,50,50,7,7944787,1,2,5,1
+Intermedia,33,Masculino,3325907,Secundaria,10,Empleado,No,3438075,Urbano,34,34,10,3438075,2,3,3,0
+Intermedia,52,Masculino,4275533,Secundaria,14,Estudiante,Si,2752736,Urbano,5,5,14,2752736,5,5,2,3
+Intermedia,70,Femenino,1362248,Secundaria,25,Pensionado,No,693713,Urbano,72,72,25,693713,1,5,1,3
+Basica,45,Femenino,1538847,Primaria,14,Empleado,Si,2013054,Rural,51,51,14,2013054,1,5,2,3
+Intermedia,36,Femenino,5177831,Primaria,6,Ama de casa,Si,3501220,Urbano,89,89,6,3501220,1,2,3,0
+Plena,43,Masculino,10039148,Tecnico,8,Pensionado,No,11105473,Urbano,38,38,8,11105473,2,2,5,1
+Basica,61,Femenino,262167,Sin educacion,8,Estudiante,Si,219413,Rural,28,28,8,219413,2,2,1,0
+Intermedia,37,Masculino,6944998,Tecnico,1,Ama de casa,No,7538698,Urbano,16,16,1,7538698,3,1,5,1
+Intermedia,35,Masculino,4499673,Universitario,8,Independiente,Si,3670175,Rural,80,80,8,3670175,1,2,3,0
+Intermedia,39,Masculino,4398573,Universitario,14,Estudiante,Si,2581697,Rural,60,60,14,2581697,1,5,2,3
+Plena,34,Femenino,5202897,Universitario,4,Ama de casa,No,3761434,Urbano,1,1,4,3761434,5,1,3,0
+Intermedia,46,Masculino,541274,Tecnico,15,Empleado,Si,372428,Urbano,1,1,15,372428,5,5,1,3
+Intermedia,64,Femenino,701039,Tecnico,12,Independiente,Si,650578,Urbano,14,14,12,650578,4,4,1,3
+Plena,49,Femenino,6249485,Secundaria,6,Estudiante,Si,7238677,Urbano,49,49,6,7238677,1,2,5,1
+Intermedia,42,Masculino,2659477,Tecnico,9,Empleado,No,2031325,Urbano,130,130,9,2031325,1,3,2,0
+Intermedia,41,Masculino,7154691,Secundaria,18,Independiente,Si,3663702,Urbano,4,4,18,3663702,5,5,3,2
+Intermedia,26,Femenino,3171406,Secundaria,14,Pensionado,Si,3231464,Urbano,27,27,14,3231464,2,5,3,2
+Basica,56,Femenino,745064,Secundaria,10,Empleado,Si,823862,Rural,14,14,10,823862,4,3,1,3
+Basica,44,Femenino,3716538,Primaria,9,Ama de casa,No,5436814,Rural,105,105,9,5436814,1,3,4,2
+Intermedia,43,Femenino,2288157,Secundaria,10,Estudiante,No,2492880,Urbano,55,55,10,2492880,1,3,2,0
+Intermedia,83,Femenino,4098668,Universitario,7,Independiente,No,3980514,Urbano,54,54,7,3980514,1,2,3,1
+Plena,49,Femenino,7257461,Primaria,0,Empleado,No,7790170,Urbano,18,18,0,7790170,3,1,5,1
+Intermedia,36,Femenino,7022060,Secundaria,20,Pensionado,No,10026804,Urbano,16,16,20,10026804,3,5,5,2
+Intermedia,40,Masculino,6179091,Universitario,11,Estudiante,Si,8208169,Rural,9,9,11,8208169,4,4,5,2
+Intermedia,59,Masculino,5275616,Tecnico,12,Estudiante,No,4341720,Urbano,1,1,12,4341720,5,4,3,3
+Basica,46,Masculino,3534093,Secundaria,10,Empleado,No,2605525,Urbano,60,60,10,2605525,1,3,2,0
+Plena,28,Femenino,9837616,Secundaria,6,Pensionado,Si,7502497,Urbano,50,50,6,7502497,1,2,5,1
+Basica,56,Masculino,1538285,Primaria,9,Independiente,No,1545086,Rural,245,245,9,1545086,1,3,2,0
+Plena,37,Masculino,11566,Universitario,2,Empleado,Si,14389,Rural,170,170,2,14389,1,1,1,0
+Basica,67,Masculino,1414164,Secundaria,21,Independiente,No,1418716,Rural,24,24,21,1418716,3,5,2,3
+Intermedia,58,Masculino,1699553,Secundaria,4,Estudiante,Si,965000,Urbano,43,43,4,965000,2,1,1,0
+Basica,40,Masculino,3441540,Sin educacion,5,Independiente,Si,4211002,Rural,86,86,5,4211002,1,1,3,0
+Plena,60,Femenino,6590601,Sin educacion,8,Pensionado,No,8607128,Urbano,56,56,8,8607128,1,2,5,1
+Intermedia,46,Femenino,4628999,Universitario,16,Ama de casa,No,3654585,Urbano,8,8,16,3654585,4,5,3,2
+Intermedia,55,Masculino,126699,Secundaria,10,Pensionado,Si,147494,Rural,17,17,10,147494,3,3,1,3
+Basica,51,Masculino,3789646,Secundaria,4,Independiente,Si,3511455,Rural,4,4,4,3511455,5,1,3,0
+Plena,35,Masculino,3364716,Primaria,16,Empleado,Si,4673992,Urbano,92,92,16,4673992,1,5,4,2
+Basica,37,Femenino,3458291,Secundaria,14,Estudiante,Si,4652181,Rural,27,27,14,4652181,2,5,4,2
+Plena,57,Femenino,5788416,Universitario,13,Ama de casa,Si,5935627,Urbano,7,7,13,5935627,4,4,4,2
+Basica,41,Femenino,1782201,Secundaria,14,Empleado,Si,2123502,Rural,33,33,14,2123502,2,5,2,3
+Basica,40,Masculino,699797,Sin educacion,22,Empleado,Si,968064,Rural,28,28,22,968064,2,5,1,3
+Basica,34,Masculino,490978,Secundaria,21,Pensionado,No,488875,Urbano,13,13,21,488875,4,5,1,3
+Intermedia,50,Femenino,6485843,Tecnico,7,Independiente,Si,5274617,Urbano,3,3,7,5274617,5,2,4,1
+Intermedia,70,Femenino,7163501,Secundaria,18,Pensionado,No,8980639,Urbano,33,33,18,8980639,2,5,5,2
+Basica,32,Femenino,3378898,Tecnico,12,Independiente,No,2433030,Urbano,22,22,12,2433030,3,4,2,3
+Plena,45,Masculino,1075715,Tecnico,12,Pensionado,Si,955806,Urbano,44,44,12,955806,2,4,1,3
+Intermedia,62,Masculino,3135812,Universitario,2,Empleado,Si,4282664,Rural,22,22,2,4282664,3,1,3,0
+Intermedia,44,Masculino,5685726,Tecnico,9,Estudiante,No,6961730,Urbano,57,57,9,6961730,1,3,5,1
+Intermedia,50,Femenino,6082603,Primaria,6,Independiente,Si,5497524,Urbano,24,24,6,5497524,3,2,4,1
+Intermedia,32,Masculino,922105,Secundaria,14,Ama de casa,Si,659069,Rural,24,24,14,659069,3,5,1,3
+Intermedia,50,Femenino,240,Primaria,15,Ama de casa,No,205,Rural,62,62,15,205,1,5,1,3
+Basica,43,Masculino,3703113,Universitario,0,Empleado,No,2903626,Rural,15,15,0,2903626,3,1,3,0
+Basica,57,Femenino,1854300,Secundaria,10,Pensionado,No,1253672,Rural,4,4,10,1253672,5,3,1,3
+Plena,59,Femenino,2646606,Universitario,16,Pensionado,Si,3290612,Urbano,1,1,16,3290612,5,5,3,3
+Plena,76,Masculino,134134,Secundaria,9,Empleado,Si,100878,Urbano,42,42,9,100878,2,3,1,3
+Intermedia,52,Masculino,4214335,Primaria,14,Ama de casa,No,4021181,Urbano,29,29,14,4021181,2,5,3,2
+Intermedia,49,Femenino,6638976,Tecnico,12,Ama de casa,Si,5881200,Urbano,36,36,12,5881200,2,4,4,2
+Intermedia,47,Masculino,7469527,Secundaria,12,Pensionado,No,11070417,Urbano,7,7,12,11070417,4,4,5,2
+Intermedia,41,Femenino,4412811,Primaria,9,Independiente,Si,3932222,Urbano,4,4,9,3932222,5,3,3,3
+Basica,49,Femenino,2675199,Secundaria,4,Estudiante,No,1551569,Rural,1,1,4,1551569,5,1,2,0
+Basica,41,Femenino,442293,Sin educacion,4,Independiente,Si,260876,Rural,12,12,4,260876,4,1,1,0
+Plena,47,Femenino,5708277,Secundaria,14,Ama de casa,No,6226324,Urbano,26,26,14,6226324,3,5,4,2
+Plena,61,Femenino,3951782,Tecnico,10,Independiente,Si,4344445,Rural,14,14,10,4344445,4,3,3,3
+Basica,33,Femenino,3157103,Sin educacion,9,Estudiante,Si,2900617,Rural,17,17,9,2900617,3,3,3,0
+Intermedia,59,Femenino,3032066,Universitario,8,Independiente,No,2825412,Urbano,70,70,8,2825412,1,2,2,0
+Intermedia,61,Masculino,1874333,Primaria,8,Independiente,Si,1038254,Urbano,12,12,8,1038254,4,2,1,0
+Plena,44,Femenino,987639,Primaria,15,Independiente,Si,1003981,Urbano,21,21,15,1003981,3,5,1,3
+Basica,20,Masculino,1637576,Primaria,8,Independiente,No,1645337,Rural,45,45,8,1645337,2,2,2,0
+Basica,38,Femenino,502553,Secundaria,3,Empleado,Si,326433,Urbano,15,15,3,326433,3,1,1,0
+Plena,61,Masculino,1839728,Tecnico,14,Ama de casa,Si,1110900,Urbano,29,29,14,1110900,2,5,1,3
+Basica,45,Femenino,5134148,Secundaria,9,Estudiante,Si,3201513,Rural,59,59,9,3201513,1,3,3,2
+Plena,33,Femenino,4618677,Sin educacion,10,Ama de casa,No,2775955,Urbano,89,89,10,2775955,1,3,2,0
+Intermedia,39,Femenino,4148600,Sin educacion,18,Empleado,No,4603735,Urbano,4,4,18,4603735,5,5,4,2
+Basica,55,Femenino,4542816,Primaria,10,Empleado,No,3163993,Rural,78,78,10,3163993,1,3,3,2
+Intermedia,52,Femenino,7765437,Universitario,11,Empleado,No,5835184,Urbano,20,20,11,5835184,3,4,4,2
+Plena,42,Masculino,6060230,Universitario,4,Empleado,No,4082002,Urbano,8,8,4,4082002,4,1,3,1
+Plena,41,Masculino,8449728,Primaria,9,Independiente,Si,12318312,Urbano,18,18,9,12318312,3,3,5,1
+Plena,40,Masculino,3400187,Tecnico,13,Ama de casa,Si,4605953,Urbano,117,117,13,4605953,1,4,4,2
+Intermedia,34,Masculino,2384803,Universitario,2,Pensionado,No,1742086,Rural,20,20,2,1742086,3,1,2,0
+Plena,64,Femenino,4188119,Tecnico,11,Estudiante,Si,3465946,Urbano,11,11,11,3465946,4,4,3,3
+Basica,41,Femenino,3497038,Tecnico,11,Empleado,Si,2482522,Rural,30,30,11,2482522,2,4,2,3
+Intermedia,60,Femenino,5321095,Primaria,10,Ama de casa,Si,5277866,Urbano,8,8,10,5277866,4,3,4,1
+Plena,63,Femenino,3278490,Universitario,15,Empleado,Si,1703538,Urbano,2,2,15,1703538,5,5,2,3
+Basica,57,Femenino,692692,Secundaria,12,Empleado,No,811397,Rural,4,4,12,811397,5,4,1,3
+Basica,40,Femenino,3288461,Universitario,17,Empleado,No,3364616,Urbano,4,4,17,3364616,5,5,3,3
+Basica,50,Femenino,667294,Secundaria,5,Empleado,Si,933303,Urbano,4,4,5,933303,5,1,1,0
+Basica,45,Femenino,3008161,Primaria,11,Empleado,Si,1998600,Urbano,4,4,11,1998600,5,4,2,3
+Basica,34,Masculino,3605795,Universitario,10,Estudiante,No,4702351,Rural,30,30,10,4702351,2,3,4,2
+Intermedia,49,Masculino,5464770,Primaria,5,Ama de casa,Si,7060270,Urbano,6,6,5,7060270,4,1,5,1
+Intermedia,31,Femenino,5877082,Secundaria,15,Empleado,Si,3685995,Urbano,12,12,15,3685995,4,5,3,2
+Plena,59,Masculino,9077738,Universitario,22,Empleado,Si,8156885,Urbano,68,68,22,8156885,1,5,5,2
+Plena,39,Masculino,5199574,Universitario,10,Empleado,No,3484508,Urbano,19,19,10,3484508,3,3,3,2
+Intermedia,47,Femenino,5695944,Universitario,13,Empleado,No,4298846,Urbano,33,33,13,4298846,2,4,3,2
+Intermedia,48,Femenino,4829547,Primaria,10,Independiente,Si,3686133,Urbano,5,5,10,3686133,5,3,3,3
+Intermedia,42,Femenino,1455792,Tecnico,6,Independiente,Si,1537660,Rural,6,6,6,1537660,4,2,2,0
+Intermedia,52,Masculino,200379,Tecnico,1,Pensionado,Si,182628,Urbano,1,1,1,182628,5,1,1,0
+Intermedia,39,Masculino,2219423,Sin educacion,6,Empleado,Si,3213131,Urbano,5,5,6,3213131,5,2,3,0
+Intermedia,55,Femenino,3455663,Secundaria,3,Pensionado,Si,2164524,Urbano,9,9,3,2164524,4,1,2,0
+Intermedia,29,Femenino,4813426,Primaria,19,Estudiante,Si,7093508,Urbano,5,5,19,7093508,5,5,5,2
+Intermedia,47,Masculino,6629683,Secundaria,9,Pensionado,No,4843903,Urbano,2,2,9,4843903,5,3,4,1
+Intermedia,68,Femenino,1530717,Universitario,8,Ama de casa,No,1948410,Urbano,3,3,8,1948410,5,2,2,0
+Intermedia,33,Femenino,979288,Tecnico,14,Independiente,Si,821593,Urbano,18,18,14,821593,3,5,1,3
+Plena,37,Masculino,10020191,Universitario,4,Independiente,No,6443798,Urbano,6,6,4,6443798,4,1,4,1
+Plena,51,Masculino,1123663,Universitario,6,Empleado,Si,1525810,Urbano,13,13,6,1525810,4,2,2,0
+Basica,47,Masculino,2488154,Primaria,10,Empleado,Si,2012570,Rural,21,21,10,2012570,3,3,2,3
+Plena,49,Masculino,6089863,Universitario,15,Estudiante,No,7057271,Urbano,35,35,15,7057271,2,5,5,2
+Intermedia,51,Masculino,4222720,Secundaria,13,Estudiante,No,4503293,Urbano,1,1,13,4503293,5,4,4,2
+Plena,53,Femenino,894734,Universitario,11,Ama de casa,Si,869463,Urbano,48,48,11,869463,2,4,1,3
+Plena,58,Masculino,593080,Secundaria,10,Empleado,Si,590601,Rural,29,29,10,590601,2,3,1,3
+Intermedia,50,Femenino,822771,Universitario,12,Empleado,No,1013850,Rural,2,2,12,1013850,5,4,1,3
+Basica,42,Masculino,3045056,Primaria,11,Estudiante,No,1789801,Rural,62,62,11,1789801,1,4,2,3
+Intermedia,53,Femenino,4245890,Secundaria,5,Estudiante,Si,4959967,Rural,76,76,5,4959967,1,1,4,1
+Intermedia,68,Masculino,1823178,Tecnico,10,Estudiante,Si,2544814,Rural,1,1,10,2544814,5,3,2,3
+Intermedia,43,Femenino,4974638,Secundaria,5,Independiente,Si,2774794,Urbano,9,9,5,2774794,4,1,2,0
+Intermedia,33,Femenino,6396527,Tecnico,10,Pensionado,No,4097956,Rural,49,49,10,4097956,1,3,3,2
+Basica,58,Femenino,216211,Primaria,8,Pensionado,Si,263049,Rural,41,41,8,263049,2,2,1,0
+Plena,44,Femenino,5180551,Universitario,23,Empleado,No,4855635,Urbano,6,6,23,4855635,4,5,4,2
+Plena,19,Masculino,7168828,Secundaria,10,Independiente,Si,6477385,Urbano,7,7,10,6477385,4,3,4,2
+Intermedia,55,Masculino,1968033,Sin educacion,3,Estudiante,No,1253571,Urbano,13,13,3,1253571,4,1,1,0
+Basica,39,Femenino,1600409,Primaria,9,Empleado,No,1611244,Rural,19,19,9,1611244,3,3,2,0
+Intermedia,44,Femenino,4786376,Secundaria,13,Independiente,No,2998881,Urbano,28,28,13,2998881,2,4,3,2
+Basica,49,Femenino,4669264,Sin educacion,18,Ama de casa,No,4560099,Urbano,13,13,18,4560099,4,5,4,2
+Plena,47,Femenino,8423214,Tecnico,7,Independiente,Si,10643702,Urbano,18,18,7,10643702,3,2,5,1
+Basica,54,Femenino,3032277,Primaria,2,Empleado,No,2299268,Rural,41,41,2,2299268,2,1,2,0
+Intermedia,40,Masculino,5695729,Sin educacion,14,Pensionado,No,5586292,Rural,1,1,14,5586292,5,5,4,2
+Intermedia,51,Femenino,2845615,Secundaria,3,Estudiante,No,4245703,Urbano,8,8,3,4245703,4,1,3,0
+Intermedia,42,Femenino,4999531,Universitario,8,Ama de casa,Si,5932696,Urbano,37,37,8,5932696,2,2,4,1
+Plena,54,Femenino,4848289,Secundaria,9,Independiente,Si,6503285,Urbano,67,67,9,6503285,1,3,4,1
+Plena,52,Femenino,1975336,Tecnico,10,Empleado,Si,1807131,Urbano,21,21,10,1807131,3,3,2,3
+Basica,34,Femenino,3649039,Secundaria,13,Empleado,Si,4626474,Rural,22,22,13,4626474,3,4,4,2
+Basica,58,Masculino,2893616,Primaria,7,Estudiante,Si,1564026,Urbano,3,3,7,1564026,5,2,2,0
+Basica,39,Femenino,1864832,Secundaria,9,Empleado,Si,1161625,Rural,17,17,9,1161625,3,3,1,0
+Plena,55,Femenino,9477928,Tecnico,10,Empleado,No,6663652,Urbano,22,22,10,6663652,3,3,4,1
+Plena,49,Femenino,217715,Tecnico,11,Estudiante,No,196368,Urbano,8,8,11,196368,4,4,1,3
+Intermedia,67,Femenino,2463031,Sin educacion,10,Ama de casa,No,3314611,Rural,9,9,10,3314611,4,3,3,3
+Intermedia,42,Femenino,443675,Tecnico,12,Pensionado,Si,375467,Urbano,14,14,12,375467,4,4,1,3
+Plena,41,Masculino,7971884,Universitario,14,Pensionado,No,9204506,Urbano,1,1,14,9204506,5,5,5,2
+Basica,45,Masculino,3650959,Sin educacion,12,Independiente,No,4415157,Rural,11,11,12,4415157,4,4,3,3
+Plena,41,Masculino,3446063,Tecnico,12,Ama de casa,Si,3743053,Urbano,7,7,12,3743053,4,4,3,3
+Intermedia,55,Femenino,5270171,Universitario,2,Independiente,No,4517812,Urbano,11,11,2,4517812,4,1,4,1
+Intermedia,26,Femenino,3088310,Secundaria,10,Pensionado,Si,3326275,Urbano,3,3,10,3326275,5,3,3,3
+Intermedia,32,Femenino,5898780,Secundaria,12,Estudiante,No,4968339,Urbano,66,66,12,4968339,1,4,4,2
+Basica,32,Masculino,2361755,Universitario,14,Empleado,Si,1378967,Rural,27,27,14,1378967,2,5,2,3
+Basica,56,Masculino,2143855,Secundaria,7,Pensionado,Si,3200355,Urbano,34,34,7,3200355,2,2,3,0
+Plena,66,Femenino,9721191,Tecnico,7,Ama de casa,Si,6096960,Urbano,46,46,7,6096960,2,2,4,1
+Basica,44,Femenino,1304571,Secundaria,7,Pensionado,No,746669,Rural,20,20,7,746669,3,2,1,0
+Intermedia,43,Femenino,939489,Universitario,13,Ama de casa,No,1295114,Urbano,2,2,13,1295114,5,4,2,3
+Intermedia,46,Masculino,4559436,Secundaria,15,Ama de casa,Si,3655914,Urbano,23,23,15,3655914,3,5,3,2
+Intermedia,59,Masculino,7560710,Secundaria,8,Ama de casa,Si,8697062,Urbano,26,26,8,8697062,3,2,5,1
+Intermedia,34,Femenino,2947146,Secundaria,15,Independiente,No,2443201,Urbano,41,41,15,2443201,2,5,2,3
+Intermedia,48,Femenino,483887,Universitario,11,Estudiante,No,431363,Urbano,16,16,11,431363,3,4,1,3
+Plena,57,Masculino,3528775,Universitario,9,Pensionado,Si,2689325,Urbano,4,4,9,2689325,5,3,2,3
+Intermedia,51,Femenino,3946267,Sin educacion,9,Estudiante,No,3326877,Urbano,10,10,9,3326877,4,3,3,3
+Intermedia,47,Femenino,1262999,Universitario,14,Empleado,No,1150214,Urbano,13,13,14,1150214,4,5,1,3
+Intermedia,57,Femenino,5133197,Secundaria,12,Pensionado,No,6264636,Rural,31,31,12,6264636,2,4,4,2
+Plena,18,Masculino,10376594,Primaria,21,Estudiante,Si,10496300,Urbano,25,25,21,10496300,3,5,5,2
+Plena,53,Femenino,4698091,Tecnico,6,Estudiante,Si,6782001,Urbano,13,13,6,6782001,4,2,4,1
+Plena,37,Femenino,3689177,Tecnico,13,Empleado,No,1999093,Rural,129,129,13,1999093,1,4,2,3
+Intermedia,23,Masculino,3125493,Universitario,7,Ama de casa,Si,3135083,Urbano,27,27,7,3135083,2,2,3,0
+Basica,51,Femenino,598760,Primaria,6,Pensionado,No,649190,Rural,8,8,6,649190,4,2,1,0
+Intermedia,61,Femenino,6889534,Universitario,10,Pensionado,No,9784495,Urbano,3,3,10,9784495,5,3,5,1
+Intermedia,43,Femenino,3235640,Secundaria,11,Empleado,Si,1776879,Urbano,4,4,11,1776879,5,4,2,3
+Basica,56,Femenino,2013827,Sin educacion,25,Ama de casa,Si,2161842,Urbano,8,8,25,2161842,4,5,2,3
+Intermedia,64,Masculino,5145584,Universitario,9,Pensionado,Si,6965217,Urbano,5,5,9,6965217,5,3,5,1
+Intermedia,61,Femenino,3447861,Secundaria,4,Pensionado,No,2558064,Rural,6,6,4,2558064,4,1,2,0
+Intermedia,65,Femenino,5056221,Primaria,11,Pensionado,No,6958838,Urbano,10,10,11,6958838,4,4,5,2
+Plena,54,Masculino,639041,Tecnico,0,Ama de casa,Si,331690,Urbano,5,5,0,331690,5,1,1,0
+Basica,46,Masculino,4231361,Tecnico,10,Empleado,Si,5214960,Rural,68,68,10,5214960,1,3,4,2
+Basica,26,Masculino,4890621,Primaria,10,Pensionado,Si,7008814,Urbano,2,2,10,7008814,5,3,5,2
+Plena,42,Femenino,6747160,Secundaria,14,Estudiante,No,7807798,Urbano,22,22,14,7807798,3,5,5,2
+Intermedia,35,Femenino,7445614,Primaria,15,Ama de casa,No,6991649,Urbano,15,15,15,6991649,3,5,5,2
+Plena,71,Masculino,1574896,Secundaria,7,Independiente,No,858131,Urbano,121,121,7,858131,1,2,1,0
+Intermedia,43,Femenino,3723846,Tecnico,9,Empleado,Si,5288285,Urbano,3,3,9,5288285,5,3,4,2
+Intermedia,46,Masculino,4694093,Secundaria,6,Estudiante,Si,4554661,Urbano,15,15,6,4554661,3,2,4,1
+Plena,52,Masculino,6050061,Secundaria,4,Pensionado,No,3200463,Rural,104,104,4,3200463,1,1,3,1
+Plena,46,Masculino,4175203,Secundaria,12,Independiente,Si,4967745,Urbano,60,60,12,4967745,1,4,4,2
+Plena,65,Femenino,3516078,Secundaria,4,Empleado,Si,3452216,Urbano,50,50,4,3452216,1,1,3,0
+Intermedia,38,Femenino,989227,Universitario,8,Ama de casa,Si,617619,Urbano,8,8,8,617619,4,2,1,0
+Intermedia,47,Masculino,3055591,Secundaria,5,Independiente,Si,2182523,Rural,5,5,5,2182523,5,1,2,0
+Intermedia,36,Femenino,1268754,Universitario,13,Independiente,No,716200,Urbano,33,33,13,716200,2,4,1,3
+Basica,29,Femenino,3818702,Primaria,19,Estudiante,Si,4102407,Rural,79,79,19,4102407,1,5,3,2
+Plena,38,Masculino,2171842,Secundaria,3,Empleado,No,2436871,Urbano,24,24,3,2436871,3,1,2,0
+Basica,45,Masculino,304540,Tecnico,1,Estudiante,No,306289,Urbano,25,25,1,306289,3,1,1,0
+Plena,40,Femenino,5744608,Tecnico,9,Estudiante,Si,7566235,Urbano,9,9,9,7566235,4,3,5,1
+Intermedia,37,Femenino,4642792,Tecnico,10,Pensionado,No,6318881,Urbano,44,44,10,6318881,2,3,4,2
+Basica,35,Masculino,5852834,Primaria,1,Ama de casa,Si,8029325,Rural,6,6,1,8029325,4,1,5,1
+Plena,45,Femenino,5732191,Universitario,12,Pensionado,Si,7145125,Rural,11,11,12,7145125,4,4,5,2
+Intermedia,54,Femenino,7316455,Tecnico,9,Ama de casa,Si,17836420,Urbano,16,16,9,17836420,3,3,5,1
+Intermedia,27,Masculino,4990696,Sin educacion,5,Independiente,Si,3664907,Urbano,21,21,5,3664907,3,1,3,0
+Plena,51,Femenino,6383628,Primaria,6,Empleado,Si,13413273,Urbano,8,8,6,13413273,4,2,5,1
+Plena,66,Femenino,3821555,Secundaria,14,Pensionado,No,1046410,Urbano,3,3,14,1046410,5,5,1,3
+Intermedia,43,Femenino,4206431,Secundaria,13,Independiente,Si,16351222,Urbano,28,28,13,16351222,2,4,5,2
+Intermedia,57,Femenino,823819,Secundaria,7,Empleado,Si,2473209,Rural,10,10,7,2473209,4,2,2,0
+Plena,37,Masculino,2034766,Secundaria,9,Ama de casa,No,1201937,Rural,26,26,9,1201937,3,3,1,0
+Intermedia,56,Femenino,1450105,Secundaria,11,Empleado,Si,1086536,Urbano,5,5,11,1086536,5,4,1,3
+Basica,75,Femenino,4672987,Universitario,8,Independiente,Si,9643218,Rural,19,19,8,9643218,3,2,5,1
+Intermedia,20,Masculino,3855685,Secundaria,16,Independiente,Si,13174694,Urbano,22,22,16,13174694,3,5,5,2
+Plena,73,Femenino,2096032,Primaria,14,Ama de casa,Si,2331686,Urbano,1,1,14,2331686,5,5,2,3
+Intermedia,40,Femenino,2451138,Tecnico,22,Independiente,No,2815164,Rural,12,12,22,2815164,4,5,2,3
+Intermedia,52,Femenino,3263761,Primaria,7,Empleado,Si,1149242,Urbano,4,4,7,1149242,5,2,1,0
+Basica,50,Femenino,432391,Sin educacion,10,Empleado,No,626259,Rural,1,1,10,626259,5,3,1,3
+Plena,46,Masculino,4853659,Secundaria,2,Pensionado,Si,8065565,Urbano,138,138,2,8065565,1,1,5,1
+Intermedia,65,Femenino,4094008,Primaria,12,Ama de casa,Si,11464557,Rural,11,11,12,11464557,4,4,5,2
+Plena,41,Masculino,2610719,Tecnico,2,Empleado,Si,339419,Urbano,49,49,2,339419,1,1,1,0
+Basica,40,Masculino,1733624,Sin educacion,7,Independiente,No,2985170,Rural,8,8,7,2985170,4,2,3,0
+Basica,51,Masculino,252512,Primaria,8,Independiente,No,585362,Urbano,34,34,8,585362,2,2,1,0
+Basica,50,Femenino,7999729,Primaria,15,Estudiante,No,22905803,Rural,42,42,15,22905803,2,5,5,2
+Plena,52,Femenino,4763249,Universitario,8,Empleado,No,5253253,Rural,27,27,8,5253253,2,2,4,1
+Plena,55,Masculino,2129574,Primaria,5,Independiente,No,55093,Urbano,19,19,5,55093,3,1,1,0
+Plena,59,Femenino,2606367,Sin educacion,11,Empleado,Si,3911032,Urbano,15,15,11,3911032,3,4,3,3
+Basica,34,Femenino,6780921,Tecnico,10,Empleado,Si,11649475,Rural,12,12,10,11649475,4,3,5,1
+Basica,54,Femenino,3350702,Primaria,4,Empleado,Si,814060,Rural,79,79,4,814060,1,1,1,0
+Plena,49,Femenino,1318684,Secundaria,11,Empleado,No,2160423,Urbano,53,53,11,2160423,1,4,2,3
+Plena,42,Masculino,2375407,Universitario,1,Independiente,Si,9419156,Urbano,100,100,1,9419156,1,1,5,1
+Intermedia,37,Femenino,788791,Primaria,10,Empleado,Si,941861,Rural,3,3,10,941861,5,3,1,3
+Plena,28,Masculino,3839485,Primaria,11,Independiente,Si,4702026,Urbano,39,39,11,4702026,2,4,4,2
+Plena,40,Masculino,5824268,Universitario,12,Independiente,No,4531038,Urbano,83,83,12,4531038,1,4,4,2
+Intermedia,18,Femenino,2044839,Primaria,11,Empleado,No,1176597,Urbano,5,5,11,1176597,5,4,1,3
+Intermedia,52,Masculino,3095745,Secundaria,12,Empleado,No,5240446,Urbano,2,2,12,5240446,5,4,4,2
+Intermedia,33,Femenino,1354120,Secundaria,8,Empleado,Si,1452592,Rural,40,40,8,1452592,2,2,2,0
+Basica,37,Masculino,4080902,Sin educacion,15,Empleado,No,12979678,Urbano,25,25,15,12979678,3,5,5,2
+Plena,39,Masculino,7786238,Universitario,10,Estudiante,No,7150143,Urbano,55,55,10,7150143,1,3,5,1
+Plena,43,Femenino,2904363,Primaria,8,Independiente,Si,4168743,Urbano,4,4,8,4168743,5,2,3,0
+Plena,18,Masculino,3581161,Universitario,11,Independiente,Si,2862729,Urbano,47,47,11,2862729,2,4,3,2
+Intermedia,61,Masculino,1834296,Secundaria,6,Pensionado,No,1761847,Urbano,6,6,6,1761847,4,2,2,0
+Intermedia,40,Masculino,3001337,Secundaria,12,Empleado,No,2003155,Urbano,5,5,12,2003155,5,4,2,3
+Intermedia,53,Femenino,6156299,Secundaria,14,Independiente,No,21039940,Urbano,5,5,14,21039940,5,5,5,2
+Plena,40,Femenino,1628362,Universitario,5,Ama de casa,No,1800108,Urbano,50,50,5,1800108,1,1,2,0
+Intermedia,42,Femenino,3960734,Secundaria,0,Independiente,No,5897722,Urbano,32,32,0,5897722,2,1,4,1
+Plena,49,Masculino,4568577,Tecnico,13,Empleado,No,7184958,Urbano,22,22,13,7184958,3,4,5,2
+Intermedia,24,Masculino,2710650,Primaria,4,Independiente,No,1754561,Rural,13,13,4,1754561,4,1,2,0
+Plena,29,Masculino,6939661,Tecnico,11,Ama de casa,No,22401107,Urbano,62,62,11,22401107,1,4,5,2
+Plena,37,Masculino,4331724,Secundaria,10,Empleado,No,10750518,Rural,14,14,10,10750518,4,3,5,2
+Basica,62,Masculino,1832523,Secundaria,8,Ama de casa,Si,2413608,Rural,50,50,8,2413608,1,2,2,0
+Basica,61,Femenino,1898249,Secundaria,12,Empleado,No,4267854,Rural,17,17,12,4267854,3,4,3,3
+Intermedia,51,Masculino,3268230,Primaria,9,Pensionado,No,4108927,Urbano,14,14,9,4108927,4,3,3,3
+Plena,18,Femenino,5320607,Universitario,11,Pensionado,Si,9097595,Urbano,18,18,11,9097595,3,4,5,2
+Intermedia,34,Femenino,1847185,Tecnico,12,Estudiante,No,586724,Urbano,10,10,12,586724,4,4,1,3
+Basica,22,Femenino,4789448,Primaria,3,Pensionado,Si,3084141,Rural,41,41,3,3084141,2,1,3,0
+Plena,36,Masculino,5436107,Tecnico,17,Estudiante,Si,7700743,Urbano,20,20,17,7700743,3,5,5,2
+Basica,54,Masculino,2687602,Secundaria,9,Independiente,No,8873087,Rural,7,7,9,8873087,4,3,5,1
+Basica,40,Masculino,4199435,Primaria,11,Empleado,Si,6829022,Rural,68,68,11,6829022,1,4,5,2
+Intermedia,34,Masculino,189414,Secundaria,10,Empleado,Si,593264,Urbano,14,14,10,593264,4,3,1,3
+Intermedia,43,Masculino,1191176,Universitario,14,Estudiante,No,1624829,Rural,23,23,14,1624829,3,5,2,3
+Intermedia,40,Masculino,1426779,Secundaria,5,Pensionado,Si,511196,Urbano,71,71,5,511196,1,1,1,0
+Intermedia,38,Femenino,663045,Primaria,8,Independiente,Si,1010361,Rural,29,29,8,1010361,2,2,1,0
+Plena,34,Femenino,872380,Tecnico,9,Independiente,Si,1982190,Urbano,3,3,9,1982190,5,3,2,3
+Basica,51,Femenino,5239809,Sin educacion,12,Pensionado,No,8932456,Rural,84,84,12,8932456,1,4,5,2
+Plena,49,Femenino,1054910,Universitario,14,Independiente,Si,546467,Urbano,29,29,14,546467,2,5,1,3
+Plena,42,Femenino,4475663,Secundaria,11,Independiente,Si,7682951,Urbano,12,12,11,7682951,4,4,5,2
+Intermedia,57,Femenino,5044508,Primaria,16,Pensionado,No,2306318,Rural,4,4,16,2306318,5,5,2,3
+Plena,36,Femenino,2361028,Universitario,8,Independiente,Si,3849524,Urbano,47,47,8,3849524,2,2,3,0
+Plena,76,Masculino,5140829,Universitario,15,Pensionado,Si,2911963,Rural,29,29,15,2911963,2,5,3,3
+Intermedia,62,Masculino,1410828,Primaria,10,Independiente,No,938570,Urbano,22,22,10,938570,3,3,1,3
+Intermedia,63,Femenino,4174530,Secundaria,5,Ama de casa,Si,10915167,Rural,67,67,5,10915167,1,1,5,1
+Plena,47,Femenino,2507223,Secundaria,13,Independiente,No,7214960,Urbano,46,46,13,7214960,2,4,5,2
+Intermedia,40,Femenino,4472890,Tecnico,0,Pensionado,Si,1413395,Rural,4,4,0,1413395,5,1,2,0
+Intermedia,44,Femenino,3032765,Universitario,12,Empleado,No,5280142,Urbano,11,11,12,5280142,4,4,4,2
+Intermedia,22,Masculino,3999675,Secundaria,13,Independiente,No,7930992,Rural,8,8,13,7930992,4,4,5,2
+Plena,41,Masculino,256236,Secundaria,9,Ama de casa,Si,686784,Urbano,40,40,9,686784,2,3,1,0
+Intermedia,64,Femenino,1009720,Secundaria,11,Ama de casa,Si,2339963,Urbano,1,1,11,2339963,5,4,2,3
+Plena,46,Femenino,841011,Tecnico,8,Pensionado,No,17796,Urbano,25,25,8,17796,3,2,1,0
+Plena,40,Masculino,3606981,Universitario,12,Empleado,No,9019746,Urbano,43,43,12,9019746,2,4,5,2
+Intermedia,61,Masculino,4132758,Primaria,13,Empleado,Si,9870864,Urbano,62,62,13,9870864,1,4,5,2
+Plena,42,Masculino,2286889,Sin educacion,1,Independiente,Si,4023831,Urbano,12,12,1,4023831,4,1,3,0
+Plena,49,Femenino,2187910,Universitario,8,Empleado,No,5269395,Urbano,51,51,8,5269395,1,2,4,1
+Intermedia,42,Masculino,1679249,Secundaria,13,Empleado,No,2835394,Urbano,3,3,13,2835394,5,4,2,3
+Plena,49,Femenino,2920264,Secundaria,3,Independiente,No,6102888,Urbano,56,56,3,6102888,1,1,4,1
+Basica,46,Femenino,4602684,Tecnico,13,Pensionado,Si,3342781,Rural,4,4,13,3342781,5,4,3,3
+Intermedia,24,Femenino,4145012,Primaria,17,Empleado,No,485125,Urbano,15,15,17,485125,3,5,1,3
+Intermedia,49,Femenino,1780439,Secundaria,14,Empleado,No,2949273,Urbano,47,47,14,2949273,2,5,3,3
+Basica,57,Femenino,1594576,Tecnico,4,Empleado,No,2717710,Rural,4,4,4,2717710,5,1,2,0
+Plena,55,Masculino,904215,Tecnico,11,Independiente,Si,859008,Urbano,7,7,11,859008,4,4,1,3
+Intermedia,28,Femenino,2127171,Tecnico,8,Ama de casa,No,2123264,Urbano,38,38,8,2123264,2,2,2,0
+Plena,56,Femenino,4102176,Universitario,19,Pensionado,Si,9897260,Urbano,38,38,19,9897260,2,5,5,2
+Plena,38,Femenino,6938069,Secundaria,12,Ama de casa,Si,11927141,Urbano,30,30,12,11927141,2,4,5,2
+Basica,18,Masculino,2386606,Tecnico,7,Empleado,No,5750070,Rural,35,35,7,5750070,2,2,4,0
+Basica,59,Masculino,9380923,Secundaria,1,Ama de casa,No,3725367,Urbano,23,23,1,3725367,3,1,3,1
+Intermedia,25,Femenino,2918332,Secundaria,7,Pensionado,No,4282772,Urbano,8,8,7,4282772,4,2,3,0
+Basica,43,Femenino,1455497,Secundaria,8,Pensionado,No,2402801,Rural,12,12,8,2402801,4,2,2,0
+Intermedia,55,Femenino,3265067,Secundaria,11,Pensionado,No,5787954,Urbano,6,6,11,5787954,4,4,4,2
+Basica,53,Femenino,1428118,Primaria,15,Estudiante,No,4241002,Rural,71,71,15,4241002,1,5,3,3
+Basica,51,Femenino,2685115,Sin educacion,12,Pensionado,No,1696579,Urbano,26,26,12,1696579,3,4,2,3
+Intermedia,18,Masculino,2432520,Primaria,8,Independiente,No,899934,Urbano,15,15,8,899934,3,2,1,0
+Basica,33,Femenino,588840,Universitario,20,Independiente,Si,1375202,Rural,18,18,20,1375202,3,5,2,3
+Intermedia,64,Masculino,3914535,Primaria,11,Empleado,Si,6008624,Urbano,88,88,11,6008624,1,4,4,2
+Basica,57,Masculino,1961265,Sin educacion,5,Pensionado,Si,5752257,Urbano,4,4,5,5752257,5,1,4,0
+Intermedia,57,Femenino,751344,Secundaria,11,Independiente,Si,1066710,Rural,26,26,11,1066710,3,4,1,3
+Intermedia,36,Masculino,3119868,Tecnico,7,Empleado,No,1982810,Urbano,21,21,7,1982810,3,2,2,0
+Plena,19,Femenino,1714424,Primaria,17,Independiente,No,3507950,Rural,28,28,17,3507950,2,5,3,2
+Plena,53,Masculino,1301379,Secundaria,5,Estudiante,No,2932537,Urbano,1,1,5,2932537,5,1,3,0
+Plena,66,Masculino,4278834,Primaria,5,Ama de casa,Si,8661958,Urbano,61,61,5,8661958,1,1,5,1
+Plena,61,Femenino,2593288,Secundaria,5,Estudiante,No,2646105,Urbano,80,80,5,2646105,1,1,2,0
+Intermedia,33,Masculino,4639770,Secundaria,5,Empleado,No,8831360,Rural,24,24,5,8831360,3,1,5,1
+Plena,68,Masculino,6691230,Universitario,8,Pensionado,Si,16795262,Urbano,35,35,8,16795262,2,2,5,1
+Intermedia,45,Masculino,1389010,Sin educacion,0,Independiente,No,3002564,Urbano,76,76,0,3002564,1,1,3,0
+Plena,43,Masculino,4368811,Universitario,11,Independiente,Si,5423676,Urbano,36,36,11,5423676,2,4,4,2
+Intermedia,44,Masculino,3126618,Primaria,7,Empleado,Si,3002999,Rural,4,4,7,3002999,5,2,3,0
+Basica,63,Femenino,5199996,Sin educacion,7,Ama de casa,Si,11983177,Urbano,25,25,7,11983177,3,2,5,1
+Plena,67,Femenino,188439,Universitario,15,Empleado,Si,192323,Urbano,27,27,15,192323,2,5,1,3
+Plena,38,Masculino,3520079,Universitario,15,Independiente,Si,5514679,Urbano,16,16,15,5514679,3,5,4,2
+Intermedia,35,Masculino,3445497,Tecnico,9,Estudiante,Si,2513845,Urbano,40,40,9,2513845,2,3,2,0
+Plena,48,Femenino,3968049,Primaria,17,Empleado,No,2010084,Urbano,81,81,17,2010084,1,5,2,3
+Plena,47,Femenino,6352483,Primaria,14,Empleado,Si,12203366,Urbano,77,77,14,12203366,1,5,5,2
+Intermedia,40,Masculino,3536414,Universitario,13,Empleado,Si,1517945,Urbano,17,17,13,1517945,3,4,2,3
+Plena,48,Masculino,2286042,Primaria,15,Pensionado,No,8135425,Urbano,3,3,15,8135425,5,5,5,2
+Intermedia,66,Masculino,7172558,Tecnico,13,Estudiante,No,8864765,Urbano,125,125,13,8864765,1,4,5,2
+Basica,60,Masculino,1522288,Secundaria,8,Independiente,Si,1480137,Rural,54,54,8,1480137,1,2,2,0
+Intermedia,47,Femenino,1897846,Tecnico,7,Empleado,No,2742465,Urbano,3,3,7,2742465,5,2,2,0
+Intermedia,24,Masculino,3288335,Secundaria,6,Empleado,Si,2847407,Urbano,76,76,6,2847407,1,2,3,0
+Basica,44,Masculino,8435239,Primaria,8,Ama de casa,No,24134983,Urbano,61,61,8,24134983,1,2,5,1
+Plena,63,Masculino,2760482,Universitario,17,Empleado,Si,1281249,Urbano,21,21,17,1281249,3,5,2,3
+Plena,46,Femenino,8149379,Universitario,12,Empleado,No,17314262,Urbano,26,26,12,17314262,3,4,5,2
+Intermedia,29,Masculino,3454465,Secundaria,2,Pensionado,Si,4351768,Rural,15,15,2,4351768,3,1,3,0
+Basica,41,Femenino,4634288,Tecnico,8,Independiente,No,14949898,Rural,1,1,8,14949898,5,2,5,1
+Basica,32,Masculino,2275346,Tecnico,21,Independiente,Si,6043442,Rural,12,12,21,6043442,4,5,4,2
+Intermedia,58,Femenino,4373680,Tecnico,7,Estudiante,Si,14603621,Urbano,48,48,7,14603621,2,2,5,1
+Plena,38,Masculino,3573954,Primaria,12,Estudiante,Si,1424096,Urbano,1,1,12,1424096,5,4,2,3
+Plena,49,Masculino,4979942,Universitario,3,Empleado,Si,905746,Rural,12,12,3,905746,4,1,1,0
+Intermedia,27,Femenino,1580082,Secundaria,0,Ama de casa,No,3428388,Rural,15,15,0,3428388,3,1,3,0
+Intermedia,65,Femenino,5057730,Sin educacion,10,Empleado,Si,9098,Urbano,23,23,10,9098,3,3,1,3
+Plena,35,Masculino,1300408,Tecnico,5,Independiente,No,299337,Urbano,75,75,5,299337,1,1,1,0
+Plena,60,Masculino,1551043,Universitario,10,Independiente,Si,1727503,Urbano,12,12,10,1727503,4,3,2,3
+Basica,57,Masculino,1111663,Primaria,15,Empleado,Si,619210,Rural,12,12,15,619210,4,5,1,3
+Basica,50,Femenino,1349005,Primaria,7,Empleado,Si,3304707,Rural,40,40,7,3304707,2,2,3,0
+Plena,32,Femenino,2108182,Universitario,12,Empleado,Si,1205055,Urbano,18,18,12,1205055,3,4,1,3
+Plena,35,Femenino,1797579,Universitario,5,Ama de casa,No,4659890,Urbano,7,7,5,4659890,4,1,4,0
+Intermedia,59,Masculino,5923284,Secundaria,10,Estudiante,No,12772991,Urbano,18,18,10,12772991,3,3,5,1
+Plena,42,Masculino,1486624,Universitario,9,Empleado,No,2694648,Urbano,4,4,9,2694648,5,3,2,3
+Basica,70,Masculino,2272543,Primaria,13,Empleado,No,163281,Rural,5,5,13,163281,5,4,1,3
+Basica,39,Masculino,742964,Primaria,5,Independiente,No,1736718,Rural,20,20,5,1736718,3,1,2,0
+Plena,21,Femenino,3902750,Tecnico,10,Ama de casa,No,5157970,Urbano,16,16,10,5157970,3,3,4,2
+Plena,64,Femenino,2791129,Tecnico,6,Pensionado,No,1244097,Rural,73,73,6,1244097,1,2,1,0
+Plena,52,Femenino,4637826,Secundaria,12,Independiente,No,3789423,Urbano,13,13,12,3789423,4,4,3,3
+Plena,38,Femenino,1414583,Tecnico,6,Empleado,No,2448422,Urbano,26,26,6,2448422,3,2,2,0
+Intermedia,34,Masculino,4197569,Primaria,8,Empleado,Si,6099216,Urbano,30,30,8,6099216,2,2,4,1
+Intermedia,56,Masculino,2194504,Sin educacion,11,Empleado,No,350054,Urbano,1,1,11,350054,5,4,1,3
+Intermedia,28,Masculino,1219707,Primaria,13,Ama de casa,No,33675,Urbano,32,32,13,33675,2,4,1,3
+Basica,63,Masculino,5151209,Primaria,12,Independiente,Si,1593555,Rural,5,5,12,1593555,5,4,2,3
+Intermedia,60,Femenino,105591,Secundaria,16,Empleado,Si,26098,Urbano,97,97,16,26098,1,5,1,3
+Intermedia,68,Masculino,4666192,Primaria,10,Independiente,Si,5263486,Urbano,4,4,10,5263486,5,3,4,1
+Plena,39,Masculino,4783123,Universitario,1,Estudiante,Si,17460207,Urbano,16,16,1,17460207,3,1,5,1
+Intermedia,65,Masculino,1216414,Primaria,5,Empleado,Si,676623,Urbano,2,2,5,676623,5,1,1,0
+Intermedia,48,Femenino,2576045,Secundaria,14,Pensionado,Si,5238097,Urbano,173,173,14,5238097,1,5,4,2
+Intermedia,38,Femenino,3068379,Secundaria,2,Independiente,Si,4802103,Urbano,20,20,2,4802103,3,1,4,0
+Plena,69,Masculino,1033030,Tecnico,0,Independiente,Si,2414455,Urbano,27,27,0,2414455,2,1,2,0
+Intermedia,44,Masculino,6597674,Primaria,2,Empleado,No,5658078,Urbano,2,2,2,5658078,5,1,4,1
+Basica,26,Femenino,5353170,Sin educacion,5,Independiente,Si,10683994,Urbano,41,41,5,10683994,2,1,5,1
+Plena,34,Femenino,3982391,Tecnico,13,Pensionado,Si,12622676,Urbano,7,7,13,12622676,4,4,5,2
+Basica,54,Masculino,6073222,Sin educacion,17,Empleado,No,6586951,Rural,68,68,17,6586951,1,5,4,2
+Plena,18,Femenino,2655700,Secundaria,19,Ama de casa,Si,6843346,Urbano,6,6,19,6843346,4,5,5,2
+Basica,31,Femenino,1791037,Sin educacion,4,Independiente,No,3064483,Rural,6,6,4,3064483,4,1,3,0
+Intermedia,69,Masculino,4295284,Tecnico,6,Empleado,No,8676215,Rural,1,1,6,8676215,5,2,5,1
+Basica,47,Masculino,2264690,Sin educacion,11,Empleado,Si,5376780,Rural,19,19,11,5376780,3,4,4,2
+Plena,45,Masculino,2997023,Universitario,12,Independiente,No,3968163,Urbano,24,24,12,3968163,3,4,3,3
+Intermedia,41,Femenino,2004309,Tecnico,12,Independiente,Si,4722570,Urbano,2,2,12,4722570,5,4,4,3
+Intermedia,38,Masculino,5481558,Sin educacion,6,Pensionado,Si,5389811,Urbano,44,44,6,5389811,2,2,4,1
+Intermedia,49,Masculino,259480,Primaria,16,Independiente,Si,626899,Rural,18,18,16,626899,3,5,1,3
+Plena,34,Masculino,1805888,Secundaria,7,Pensionado,No,2882446,Urbano,22,22,7,2882446,3,2,3,0
+Intermedia,39,Femenino,1797451,Tecnico,7,Empleado,Si,4938759,Urbano,17,17,7,4938759,3,2,4,0
+Basica,45,Femenino,4663286,Secundaria,15,Estudiante,No,3691210,Urbano,15,15,15,3691210,3,5,3,2
+Plena,18,Masculino,262953,Secundaria,7,Independiente,Si,353232,Urbano,24,24,7,353232,3,2,1,0
+Plena,22,Femenino,7347363,Tecnico,5,Empleado,Si,8699035,Urbano,5,5,5,8699035,5,1,5,1
+Plena,38,Femenino,5495839,Secundaria,8,Independiente,Si,14658996,Urbano,6,6,8,14658996,4,2,5,1
+Basica,20,Femenino,1569515,Universitario,10,Pensionado,Si,3618536,Rural,59,59,10,3618536,1,3,3,0
+Basica,57,Femenino,1971968,Primaria,8,Pensionado,Si,2443108,Urbano,87,87,8,2443108,1,2,2,0
+Basica,33,Masculino,1962670,Secundaria,19,Independiente,Si,4163682,Urbano,14,14,19,4163682,4,5,3,3
+Plena,35,Masculino,6591023,Secundaria,3,Independiente,Si,591087,Urbano,9,9,3,591087,4,1,1,0
+Intermedia,39,Femenino,5912663,Secundaria,6,Independiente,Si,9000761,Rural,30,30,6,9000761,2,2,5,1
+Intermedia,40,Masculino,7372935,Secundaria,8,Ama de casa,Si,1293583,Urbano,15,15,8,1293583,3,2,2,0
+Basica,35,Masculino,5773124,Primaria,6,Empleado,No,5138517,Rural,1,1,6,5138517,5,2,4,1
+Plena,41,Femenino,180252,Primaria,6,Ama de casa,No,230655,Rural,5,5,6,230655,5,2,1,0
+Intermedia,33,Masculino,1952353,Secundaria,16,Empleado,No,5968581,Urbano,37,37,16,5968581,2,5,4,2
+Intermedia,41,Masculino,4064208,Primaria,10,Ama de casa,Si,8099551,Rural,32,32,10,8099551,2,3,5,2
+Basica,42,Femenino,2534127,Secundaria,13,Pensionado,No,4194196,Urbano,1,1,13,4194196,5,4,3,3
+Intermedia,18,Femenino,4367504,Tecnico,13,Independiente,No,6185432,Urbano,7,7,13,6185432,4,4,4,2
+Basica,20,Masculino,5752868,Secundaria,2,Pensionado,No,11752930,Rural,7,7,2,11752930,4,1,5,1
+Basica,41,Masculino,391294,Universitario,19,Independiente,No,116273,Urbano,33,33,19,116273,2,5,1,3
+Intermedia,57,Femenino,3139359,Primaria,8,Empleado,No,5460821,Urbano,1,1,8,5460821,5,2,4,1
+Plena,63,Femenino,5222685,Secundaria,12,Pensionado,No,5955222,Urbano,3,3,12,5955222,5,4,4,2
+Intermedia,45,Femenino,3942426,Universitario,13,Empleado,Si,12866530,Urbano,48,48,13,12866530,2,4,5,2
+Intermedia,27,Femenino,666409,Secundaria,5,Independiente,Si,726582,Rural,5,5,5,726582,5,1,1,0
+Intermedia,43,Masculino,4596228,Tecnico,11,Independiente,No,6047281,Urbano,31,31,11,6047281,2,4,4,2
+Basica,43,Femenino,3667665,Tecnico,5,Estudiante,No,5938918,Rural,8,8,5,5938918,4,1,4,1
+Intermedia,56,Femenino,7734347,Secundaria,0,Estudiante,No,3443990,Urbano,3,3,0,3443990,5,1,3,1
+Plena,62,Femenino,175454,Secundaria,2,Ama de casa,Si,59683,Urbano,8,8,2,59683,4,1,1,0
+Basica,53,Femenino,3906711,Sin educacion,10,Empleado,Si,5301464,Rural,38,38,10,5301464,2,3,4,2
+Plena,48,Femenino,3660440,Primaria,11,Ama de casa,No,937533,Urbano,58,58,11,937533,1,4,1,3
+Basica,43,Femenino,5961925,Sin educacion,11,Independiente,No,5281017,Rural,53,53,11,5281017,1,4,4,2
+Plena,67,Femenino,3794439,Universitario,14,Independiente,No,8936665,Urbano,15,15,14,8936665,3,5,5,2
+Intermedia,41,Masculino,4133984,Tecnico,5,Ama de casa,Si,2416231,Urbano,33,33,5,2416231,2,1,2,0
+Plena,90,Masculino,4723675,Universitario,0,Estudiante,No,18580298,Urbano,6,6,0,18580298,4,1,5,1
+Intermedia,44,Masculino,5130721,Universitario,14,Independiente,Si,9890291,Urbano,10,10,14,9890291,4,5,5,2
+Intermedia,43,Masculino,5520366,Tecnico,21,Empleado,No,11020226,Urbano,67,67,21,11020226,1,5,5,2
+Plena,37,Femenino,1581263,Tecnico,13,Independiente,Si,1359430,Urbano,1,1,13,1359430,5,4,2,3
+Intermedia,56,Masculino,4499072,Sin educacion,1,Pensionado,No,447061,Urbano,2,2,1,447061,5,1,1,0
+Plena,41,Femenino,2898543,Sin educacion,8,Independiente,Si,4691894,Urbano,6,6,8,4691894,4,2,4,0
+Plena,58,Masculino,4017135,Secundaria,4,Empleado,Si,12094430,Urbano,1,1,4,12094430,5,1,5,1
+Plena,31,Femenino,5332425,Primaria,12,Independiente,No,9486308,Urbano,6,6,12,9486308,4,4,5,2
+Plena,34,Femenino,2405209,Tecnico,13,Independiente,No,5247144,Urbano,26,26,13,5247144,3,4,4,2
+Basica,48,Femenino,3904217,Tecnico,24,Empleado,Si,5203975,Rural,16,16,24,5203975,3,5,4,2
+Plena,59,Femenino,2944838,Universitario,14,Empleado,No,1626362,Urbano,66,66,14,1626362,1,5,2,3
+Plena,62,Masculino,3238305,Secundaria,1,Empleado,No,4210258,Urbano,51,51,1,4210258,1,1,3,0
+Intermedia,51,Femenino,2183859,Primaria,10,Empleado,Si,2813054,Urbano,12,12,10,2813054,4,3,2,3
+Plena,62,Femenino,4500544,Tecnico,13,Independiente,Si,14599926,Rural,9,9,13,14599926,4,4,5,2
+Basica,29,Masculino,2687858,Primaria,6,Ama de casa,No,6966618,Rural,14,14,6,6966618,4,2,5,1
+Plena,37,Femenino,5100829,Tecnico,5,Ama de casa,No,10093143,Rural,26,26,5,10093143,3,1,5,1
+Plena,37,Femenino,5109830,Universitario,3,Pensionado,Si,3262904,Urbano,9,9,3,3262904,4,1,3,0
+Plena,47,Masculino,1422342,Primaria,9,Pensionado,No,1121784,Urbano,29,29,9,1121784,2,3,1,0
+Plena,54,Femenino,1409145,Primaria,8,Independiente,Si,528691,Urbano,15,15,8,528691,3,2,1,0
+Plena,57,Masculino,93796,Primaria,16,Pensionado,No,391644,Urbano,24,24,16,391644,3,5,1,3
+Plena,48,Masculino,845302,Sin educacion,13,Pensionado,No,1192244,Urbano,17,17,13,1192244,3,4,1,3
+Basica,44,Masculino,2973302,Secundaria,12,Ama de casa,Si,6513674,Rural,10,10,12,6513674,4,4,4,2
+Intermedia,36,Femenino,2413911,Secundaria,12,Pensionado,Si,373106,Urbano,88,88,12,373106,1,4,1,3
+Intermedia,37,Femenino,7601878,Universitario,8,Ama de casa,Si,11738457,Rural,43,43,8,11738457,2,2,5,1
+Basica,42,Femenino,3161833,Sin educacion,8,Independiente,No,2196498,Urbano,4,4,8,2196498,5,2,2,0
+Plena,40,Femenino,4943256,Tecnico,7,Empleado,Si,7123930,Urbano,60,60,7,7123930,1,2,5,1
+Intermedia,47,Masculino,5429838,Secundaria,10,Independiente,No,6855162,Rural,20,20,10,6855162,3,3,5,1
+Plena,23,Femenino,5972957,Tecnico,10,Pensionado,Si,10149186,Urbano,67,67,10,10149186,1,3,5,2
+Plena,27,Masculino,1785285,Universitario,8,Ama de casa,Si,4446652,Urbano,48,48,8,4446652,2,2,3,0
+Basica,38,Femenino,3853994,Secundaria,1,Independiente,No,8147276,Rural,16,16,1,8147276,3,1,5,1
+Intermedia,62,Femenino,4924497,Tecnico,0,Pensionado,No,6363852,Urbano,1,1,0,6363852,5,1,4,1
+Basica,52,Femenino,4030356,Secundaria,14,Independiente,Si,7349933,Rural,9,9,14,7349933,4,5,5,2
+Plena,60,Femenino,4867220,Secundaria,7,Empleado,Si,12517668,Urbano,23,23,7,12517668,3,2,5,1
+Intermedia,37,Femenino,6056636,Universitario,12,Empleado,No,6260490,Urbano,30,30,12,6260490,2,4,4,2
+Plena,52,Masculino,2592669,Secundaria,9,Independiente,Si,3990563,Rural,8,8,9,3990563,4,3,3,3
+Plena,68,Masculino,4023387,Secundaria,11,Independiente,No,6591623,Urbano,4,4,11,6591623,5,4,4,2
+Basica,40,Masculino,3259834,Tecnico,11,Independiente,No,6791701,Rural,54,54,11,6791701,1,4,4,2
+Basica,18,Femenino,544471,Secundaria,9,Ama de casa,Si,1429582,Rural,124,124,9,1429582,1,3,2,0
+Plena,68,Femenino,5320673,Secundaria,3,Pensionado,Si,20456713,Urbano,22,22,3,20456713,3,1,5,1
+Intermedia,45,Femenino,2966421,Tecnico,8,Ama de casa,Si,3492840,Urbano,5,5,8,3492840,5,2,3,0
+Plena,43,Femenino,3933938,Tecnico,22,Independiente,No,4947625,Rural,9,9,22,4947625,4,5,4,2
+Basica,40,Femenino,2126221,Tecnico,15,Independiente,Si,2008604,Rural,1,1,15,2008604,5,5,2,3
+Basica,44,Masculino,2151753,Primaria,11,Estudiante,No,9776361,Rural,73,73,11,9776361,1,4,5,2
+Intermedia,63,Femenino,1055097,Secundaria,12,Independiente,Si,1291289,Urbano,3,3,12,1291289,5,4,2,3
+Plena,48,Masculino,2068033,Tecnico,12,Empleado,No,4693567,Urbano,25,25,12,4693567,3,4,4,2
+Plena,71,Femenino,2556353,Tecnico,6,Independiente,Si,5317070,Urbano,9,9,6,5317070,4,2,4,1
+Plena,35,Femenino,4249282,Secundaria,9,Empleado,Si,9366345,Urbano,24,24,9,9366345,3,3,5,1
+Intermedia,26,Masculino,1433159,Tecnico,2,Ama de casa,No,2409494,Urbano,31,31,2,2409494,2,1,2,0
+Intermedia,39,Masculino,4544892,Tecnico,10,Estudiante,Si,9322284,Urbano,53,53,10,9322284,1,3,5,2
+Intermedia,24,Masculino,4733220,Universitario,15,Empleado,Si,6321127,Urbano,6,6,15,6321127,4,5,4,2
+Basica,35,Femenino,4221170,Primaria,3,Pensionado,No,1140606,Rural,1,1,3,1140606,5,1,1,0
+Intermedia,40,Femenino,3817250,Tecnico,8,Empleado,Si,11525978,Rural,4,4,8,11525978,5,2,5,1
+Intermedia,34,Masculino,1990245,Universitario,15,Ama de casa,No,3822483,Rural,69,69,15,3822483,1,5,3,2
+Plena,35,Femenino,2956665,Tecnico,11,Ama de casa,Si,5888828,Urbano,62,62,11,5888828,1,4,4,2
+Plena,18,Masculino,3646054,Tecnico,9,Independiente,No,3853451,Rural,27,27,9,3853451,2,3,3,0
+Intermedia,42,Masculino,3431967,Tecnico,15,Estudiante,Si,5812579,Rural,27,27,15,5812579,2,5,4,2
+Intermedia,42,Femenino,2619383,Tecnico,15,Empleado,Si,6668602,Urbano,32,32,15,6668602,2,5,4,2
+Intermedia,48,Masculino,1356649,Tecnico,9,Pensionado,No,3556116,Urbano,5,5,9,3556116,5,3,3,3
+Basica,37,Masculino,3513208,Primaria,12,Pensionado,Si,9751967,Urbano,73,73,12,9751967,1,4,5,2
+Basica,52,Masculino,2421056,Secundaria,23,Ama de casa,Si,4741244,Rural,16,16,23,4741244,3,5,4,2
+Intermedia,21,Femenino,2662719,Secundaria,6,Empleado,No,1472014,Urbano,14,14,6,1472014,4,2,2,0
+Intermedia,37,Femenino,1011311,Universitario,2,Empleado,Si,1457188,Rural,21,21,2,1457188,3,1,2,0
+Basica,53,Femenino,4738825,Primaria,0,Empleado,No,4397129,Rural,1,1,0,4397129,5,1,3,0
+Basica,46,Femenino,1636453,Secundaria,10,Independiente,Si,2384282,Rural,5,5,10,2384282,5,3,2,3
+Plena,40,Femenino,3442257,Universitario,9,Pensionado,No,3012817,Urbano,40,40,9,3012817,2,3,3,0
+Basica,33,Masculino,2680266,Secundaria,20,Independiente,No,3916098,Urbano,2,2,20,3916098,5,5,3,3
+Basica,57,Masculino,2197882,Primaria,11,Ama de casa,No,5696424,Rural,27,27,11,5696424,2,4,4,2
+Basica,45,Femenino,3532039,Sin educacion,20,Independiente,Si,7839585,Rural,8,8,20,7839585,4,5,5,2
+Plena,38,Femenino,4354816,Tecnico,12,Independiente,No,6417887,Urbano,14,14,12,6417887,4,4,4,2
+Intermedia,47,Masculino,4106365,Tecnico,2,Ama de casa,Si,12109236,Urbano,10,10,2,12109236,4,1,5,1
+Intermedia,37,Femenino,1031973,Primaria,11,Independiente,No,1570590,Urbano,13,13,11,1570590,4,4,2,3
+Basica,27,Masculino,2820913,Sin educacion,6,Empleado,No,684181,Rural,38,38,6,684181,2,2,1,0
+Basica,39,Masculino,1504985,Sin educacion,9,Ama de casa,Si,4568537,Urbano,10,10,9,4568537,4,3,4,0
+Plena,36,Femenino,4717621,Primaria,6,Ama de casa,No,8536457,Rural,25,25,6,8536457,3,2,5,1
+Plena,45,Masculino,4022752,Tecnico,7,Ama de casa,No,8560662,Urbano,19,19,7,8560662,3,2,5,1
+Intermedia,28,Femenino,145889,Tecnico,10,Empleado,Si,117038,Rural,32,32,10,117038,2,3,1,0
+Plena,56,Femenino,3358551,Primaria,13,Ama de casa,No,6390579,Rural,82,82,13,6390579,1,4,4,2
+Intermedia,61,Masculino,3289420,Secundaria,7,Empleado,No,4934527,Urbano,39,39,7,4934527,2,2,4,1
+Plena,46,Femenino,4284626,Tecnico,19,Independiente,No,7915378,Rural,7,7,19,7915378,4,5,5,2
+Intermedia,58,Masculino,2540606,Tecnico,10,Independiente,No,8406103,Rural,1,1,10,8406103,5,3,5,1
+Intermedia,57,Masculino,3404640,Tecnico,17,Empleado,Si,202590,Rural,9,9,17,202590,4,5,1,3
+Plena,24,Masculino,4801479,Secundaria,8,Independiente,No,7877197,Urbano,27,27,8,7877197,2,2,5,1
+Intermedia,55,Femenino,922049,Primaria,8,Independiente,No,415427,Urbano,1,1,8,415427,5,2,1,0
+Basica,52,Femenino,453289,Primaria,4,Independiente,Si,1469107,Urbano,20,20,4,1469107,3,1,2,0
+Intermedia,20,Femenino,2086744,Primaria,7,Empleado,No,200006,Urbano,27,27,7,200006,2,2,1,0
+Plena,47,Femenino,196067,Tecnico,14,Pensionado,No,704967,Urbano,12,12,14,704967,4,5,1,3
+Intermedia,64,Femenino,3915896,Sin educacion,6,Empleado,No,12892139,Rural,44,44,6,12892139,2,2,5,1
+Intermedia,34,Masculino,3416236,Tecnico,14,Ama de casa,No,5534719,Urbano,3,3,14,5534719,5,5,4,2
+Plena,41,Femenino,1816839,Universitario,11,Pensionado,Si,2500906,Urbano,2,2,11,2500906,5,4,2,3
+Intermedia,45,Femenino,3272305,Tecnico,9,Pensionado,No,10082723,Urbano,39,39,9,10082723,2,3,5,1
+Plena,21,Masculino,7358155,Secundaria,0,Pensionado,Si,5922812,Urbano,20,20,0,5922812,3,1,4,1
+Intermedia,34,Masculino,1475724,Secundaria,12,Pensionado,No,2019636,Rural,34,34,12,2019636,2,4,2,3
+Plena,51,Femenino,971615,Secundaria,9,Estudiante,Si,192081,Urbano,17,17,9,192081,3,3,1,3
+Plena,75,Femenino,1979988,Tecnico,8,Independiente,No,1055911,Urbano,8,8,8,1055911,4,2,1,0
+Intermedia,43,Femenino,3688311,Primaria,13,Empleado,No,4404678,Rural,51,51,13,4404678,1,4,3,2
+Intermedia,52,Masculino,1895415,Tecnico,15,Independiente,No,2581295,Urbano,48,48,15,2581295,2,5,2,3
+Plena,68,Femenino,2526902,Primaria,8,Pensionado,Si,1209483,Urbano,35,35,8,1209483,2,2,1,0
+Plena,57,Masculino,4149539,Secundaria,3,Pensionado,Si,13945531,Urbano,9,9,3,13945531,4,1,5,1
+Intermedia,34,Masculino,1406333,Tecnico,0,Empleado,Si,1645811,Urbano,26,26,0,1645811,3,1,2,0
+Intermedia,54,Femenino,5596391,Secundaria,5,Empleado,Si,2924441,Rural,13,13,5,2924441,4,1,3,0
+Intermedia,77,Femenino,446608,Tecnico,11,Estudiante,No,1438396,Urbano,2,2,11,1438396,5,4,2,3
+Basica,67,Femenino,4831050,Primaria,8,Estudiante,Si,13641713,Rural,74,74,8,13641713,1,2,5,1
+Basica,50,Masculino,2324371,Primaria,9,Independiente,Si,6050900,Rural,4,4,9,6050900,5,3,4,2
+Basica,61,Femenino,3731889,Secundaria,10,Independiente,No,10517168,Urbano,90,90,10,10517168,1,3,5,1
+Intermedia,39,Femenino,1728987,Secundaria,5,Estudiante,No,2731749,Urbano,17,17,5,2731749,3,1,2,0
